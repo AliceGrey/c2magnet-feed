@@ -7,8 +7,8 @@
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1794690459",
-  "publish_timestamp": "1794690459",
+  "timestamp": "1794694057",
+  "publish_timestamp": "1794694057",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
@@ -4537,24 +4537,6 @@
     ]
    },
    {
-    "uuid": "142e18f7-ab6d-5e7f-965a-a3432649c6b9",
-    "type": "ip-dst|port",
-    "category": "Network activity",
-    "value": "74.152.32.55|4449",
-    "to_ids": true,
-    "deleted": false,
-    "distribution": "5",
-    "timestamp": "1794085657",
-    "first_seen": "2026-10-29T16:49:45+00:00",
-    "last_seen": "2026-11-07T20:23:07+00:00",
-    "comment": "QuasarRAT c2; confidence 85; last verified live 2026-11-07T20:23:07Z; expires 2026-11-21T20:23:07Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
     "uuid": "ed06ee0e-109f-58d5-9971-f52a2be93cc9",
     "type": "ip-dst|port",
     "category": "Network activity",
@@ -7788,6 +7770,24 @@
     "first_seen": "2026-11-01T23:26:25+00:00",
     "last_seen": "2026-11-07T18:39:34+00:00",
     "comment": "QuasarRAT c2; confidence 85; last verified live 2026-11-07T18:39:34Z; expires 2026-11-21T18:39:34Z; no longer observed since 2026-11-14T20:07:43Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
+    "uuid": "142e18f7-ab6d-5e7f-965a-a3432649c6b9",
+    "type": "ip-dst|port",
+    "category": "Network activity",
+    "value": "74.152.32.55|4449",
+    "to_ids": false,
+    "deleted": true,
+    "distribution": "5",
+    "timestamp": "1794694057",
+    "first_seen": "2026-10-29T16:49:45+00:00",
+    "last_seen": "2026-11-07T20:23:07+00:00",
+    "comment": "QuasarRAT c2; confidence 85; last verified live 2026-11-07T20:23:07Z; expires 2026-11-21T20:23:07Z; no longer observed since 2026-11-14T22:07:37Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""

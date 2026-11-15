@@ -1,5 +1,5 @@
 # FerroMagnet feed: ip:port indicators
-# generated 2026-11-15T21:07:49Z, 10878 entries
+# generated 2026-11-15T22:07:37Z, 10877 entries
 # columns: value  (family, confidence, last_seen as a trailing comment)
 # --- ARTEX
 1.117.76.217:8787  # ARTEX c=80 last_seen=2026-11-15
@@ -649,6 +649,7 @@
 130.94.10.192:443  # ARTEX c=80 last_seen=2026-11-15
 130.94.102.111:8787  # ARTEX c=80 last_seen=2026-11-15
 130.94.102.52:8787  # ARTEX c=80 last_seen=2026-11-15
+130.94.108.151:8787  # ARTEX c=80 last_seen=2026-11-15
 130.94.108.22:8787  # ARTEX c=80 last_seen=2026-11-15
 130.94.109.218:8787  # ARTEX c=80 last_seen=2026-11-15
 130.94.109.230:8787  # ARTEX c=80 last_seen=2026-11-02
@@ -2116,7 +2117,6 @@
 23.26.251.206:8787  # ARTEX c=80 last_seen=2026-11-15
 23.27.0.174:8787  # ARTEX c=80 last_seen=2026-11-15
 23.27.113.46:22580  # ARTEX c=80 last_seen=2026-11-15
-23.27.52.46:8732  # ARTEX c=80 last_seen=2026-11-01
 23.27.98.209:8787  # ARTEX c=80 last_seen=2026-11-15
 23.27.99.126:8787  # ARTEX c=80 last_seen=2026-11-15
 23.80.82.89:8789  # ARTEX c=80 last_seen=2026-11-05
@@ -5030,6 +5030,7 @@
 64.90.12.20:443  # DesRedTeam c=80 last_seen=2026-11-15
 64.90.12.20:8080  # DesRedTeam c=80 last_seen=2026-11-15
 # --- DinDoor
+103.47.145.100:80  # DinDoor c=90 last_seen=2026-11-15
 138.124.240.76:443  # DinDoor c=85 last_seen=2026-11-15
 138.124.240.77:80  # DinDoor c=85 last_seen=2026-11-15
 141.255.164.33:80  # DinDoor c=85 last_seen=2026-11-15
@@ -5589,7 +5590,6 @@
 182.246.37.221:7001  # FRP c=90 last_seen=2026-11-15
 182.42.90.36:13011  # FRP c=85 last_seen=2026-11-15
 182.61.138.218:7500  # FRP c=90 last_seen=2026-11-15
-182.84.146.15:7500  # FRP c=90 last_seen=2026-11-08
 182.84.8.182:8586  # FRP c=90 last_seen=2026-11-15
 182.84.8.56:8586  # FRP c=90 last_seen=2026-11-15
 182.92.0.78:8026  # FRP c=85 last_seen=2026-11-15
@@ -6259,7 +6259,6 @@
 157.230.80.211:8080  # Ligolo-ng c=85 last_seen=2026-11-10
 157.245.186.149:8080  # Ligolo-ng c=85 last_seen=2026-11-15
 158.255.1.176:8080  # Ligolo-ng c=85 last_seen=2026-11-15
-160.187.199.189:8000  # Ligolo-ng c=85 last_seen=2026-11-01
 167.88.172.122:11601  # Ligolo-ng c=85 last_seen=2026-11-15
 176.122.23.25:11601  # Ligolo-ng c=85 last_seen=2026-11-13
 177.124.72.24:11601  # Ligolo-ng c=85 last_seen=2026-11-15
@@ -7149,8 +7148,6 @@
 196.251.107.109:56001  # PureRAT c=85 last_seen=2026-11-15
 196.251.107.109:56002  # PureRAT c=85 last_seen=2026-11-15
 196.251.107.109:56003  # PureRAT c=85 last_seen=2026-11-15
-196.251.107.244:56001  # PureRAT c=85 last_seen=2026-11-01
-196.251.107.244:56002  # PureRAT c=85 last_seen=2026-11-01
 196.251.121.192:56001  # PureRAT c=85 last_seen=2026-11-15
 196.251.121.192:56002  # PureRAT c=85 last_seen=2026-11-15
 196.251.121.192:56003  # PureRAT c=85 last_seen=2026-11-15
@@ -7567,6 +7564,7 @@
 45.141.21.125:56003  # PureRAT c=85 last_seen=2026-11-15
 45.144.212.109:56001  # PureRAT c=85 last_seen=2026-11-10
 45.144.212.109:56003  # PureRAT c=85 last_seen=2026-11-11
+45.146.81.141:56003  # PureRAT c=85 last_seen=2026-11-15
 45.149.153.140:56002  # PureRAT c=85 last_seen=2026-11-14
 45.149.153.140:56003  # PureRAT c=85 last_seen=2026-11-14
 45.149.153.8:56003  # PureRAT c=85 last_seen=2026-11-15
@@ -7852,6 +7850,7 @@
 93.152.209.17:56001  # PureRAT c=85 last_seen=2026-11-15
 93.152.209.17:56002  # PureRAT c=85 last_seen=2026-11-15
 93.152.209.17:56003  # PureRAT c=85 last_seen=2026-11-15
+93.152.214.122:56002  # PureRAT c=85 last_seen=2026-11-15
 93.152.215.71:56001  # PureRAT c=85 last_seen=2026-11-03
 93.152.215.71:56002  # PureRAT c=85 last_seen=2026-11-03
 93.152.215.71:56003  # PureRAT c=85 last_seen=2026-11-03
@@ -8892,7 +8891,7 @@
 102.204.223.106:443  # VShell c=85 last_seen=2026-11-15
 102.204.223.165:65353  # VShell c=85 last_seen=2026-11-15
 102.204.223.165:853  # VShell c=85 last_seen=2026-11-15
-102.204.223.218:33061  # VShell c=85 last_seen=2026-11-12
+102.204.223.218:33061  # VShell c=85 last_seen=2026-11-15
 102.209.117.153:8000  # VShell c=85 last_seen=2026-11-15
 103.106.230.240:443  # VShell c=85 last_seen=2026-11-15
 103.110.221.162:443  # VShell c=85 last_seen=2026-11-15

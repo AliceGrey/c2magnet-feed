@@ -7,8 +7,8 @@
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1794748055",
-  "publish_timestamp": "1794748055",
+  "timestamp": "1794751663",
+  "publish_timestamp": "1794751663",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
@@ -33,6 +33,24 @@
    }
   ],
   "Attribute": [
+   {
+    "uuid": "7db6f3c9-d233-5d49-a8d8-7cecc8b4d80e",
+    "type": "ip-dst",
+    "category": "Network activity",
+    "value": "162.35.42.86",
+    "to_ids": true,
+    "deleted": false,
+    "distribution": "5",
+    "timestamp": "1794751663",
+    "first_seen": "2026-11-15T08:44:11+00:00",
+    "last_seen": "2026-11-15T13:09:34+00:00",
+    "comment": "Evilginx ost; confidence 95; last verified live 2026-11-15T13:09:34Z; expires 2026-11-29T13:09:34Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"almost-certain\""
+     }
+    ]
+   },
    {
     "uuid": "ca0a4ea6-aec8-5641-a5cc-918b8857813f",
     "type": "ip-dst",
@@ -81,6 +99,24 @@
     "first_seen": "2026-10-29T08:30:19+00:00",
     "last_seen": "2026-11-15T09:40:12+00:00",
     "comment": "Evilginx ost; confidence 95; last verified live 2026-11-15T09:40:12Z; expires 2026-11-29T09:40:12Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"almost-certain\""
+     }
+    ]
+   },
+   {
+    "uuid": "bbd9af43-bc10-590b-ab61-c5c33d1165c7",
+    "type": "ip-dst|port",
+    "category": "Network activity",
+    "value": "162.35.42.86|7443",
+    "to_ids": true,
+    "deleted": false,
+    "distribution": "5",
+    "timestamp": "1794751663",
+    "first_seen": "2026-11-15T08:44:11+00:00",
+    "last_seen": "2026-11-15T13:09:34+00:00",
+    "comment": "Evilginx ost; confidence 95; last verified live 2026-11-15T13:09:34Z; expires 2026-11-29T13:09:34Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"almost-certain\""

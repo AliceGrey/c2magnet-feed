@@ -7,8 +7,8 @@
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1794773256",
-  "publish_timestamp": "1794773256",
+  "timestamp": "1794776869",
+  "publish_timestamp": "1794776869",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
@@ -53,10 +53,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794762462",
+    "timestamp": "1794776869",
     "first_seen": "2026-11-14T02:44:15+00:00",
-    "last_seen": "2026-11-15T16:10:58+00:00",
-    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T16:10:58Z; expires 2026-11-29T16:10:58Z; cluster FM-C-0857",
+    "last_seen": "2026-11-15T20:54:02+00:00",
+    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T20:54:02Z; expires 2026-11-29T20:54:02Z; cluster FM-C-0857",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -71,10 +71,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794762462",
+    "timestamp": "1794776869",
     "first_seen": "2026-11-14T02:44:27+00:00",
-    "last_seen": "2026-11-15T16:10:58+00:00",
-    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T16:10:58Z; expires 2026-11-29T16:10:58Z; cluster FM-C-0857",
+    "last_seen": "2026-11-15T20:54:02+00:00",
+    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T20:54:02Z; expires 2026-11-29T20:54:02Z; cluster FM-C-0857",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -89,10 +89,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794769661",
+    "timestamp": "1794776869",
     "first_seen": "2026-11-11T14:55:04+00:00",
-    "last_seen": "2026-11-15T18:31:55+00:00",
-    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T18:31:55Z; expires 2026-11-29T18:31:55Z; cluster FM-C-0859",
+    "last_seen": "2026-11-15T20:53:30+00:00",
+    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T20:53:30Z; expires 2026-11-29T20:53:30Z; cluster FM-C-0859",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -161,10 +161,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794751663",
+    "timestamp": "1794776869",
     "first_seen": "2026-11-13T20:31:52+00:00",
-    "last_seen": "2026-11-15T13:38:11+00:00",
-    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T13:38:11Z; expires 2026-11-29T13:38:11Z",
+    "last_seen": "2026-11-15T20:53:30+00:00",
+    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T20:53:30Z; expires 2026-11-29T20:53:30Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -179,10 +179,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794751663",
+    "timestamp": "1794776869",
     "first_seen": "2026-11-14T21:49:40+00:00",
-    "last_seen": "2026-11-15T13:46:48+00:00",
-    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T13:46:48Z; expires 2026-11-29T13:46:48Z",
+    "last_seen": "2026-11-15T20:53:30+00:00",
+    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T20:53:30Z; expires 2026-11-29T20:53:30Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -197,10 +197,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794751663",
+    "timestamp": "1794776869",
     "first_seen": "2026-11-14T00:29:56+00:00",
-    "last_seen": "2026-11-15T13:39:44+00:00",
-    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T13:39:44Z; expires 2026-11-29T13:39:44Z; cluster FM-C-0859",
+    "last_seen": "2026-11-15T20:54:02+00:00",
+    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T20:54:02Z; expires 2026-11-29T20:54:02Z; cluster FM-C-0859",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -424,6 +424,24 @@
     ]
    },
    {
+    "uuid": "88619d45-bdd5-5325-a257-6fc6eec41159",
+    "type": "ip-dst|port",
+    "category": "Network activity",
+    "value": "111.90.145.120|20078",
+    "to_ids": true,
+    "deleted": false,
+    "distribution": "5",
+    "timestamp": "1794776869",
+    "first_seen": "2026-11-14T06:51:48+00:00",
+    "last_seen": "2026-11-15T20:54:02+00:00",
+    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T20:54:02Z; expires 2026-11-29T20:54:02Z; cluster FM-C-0857",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
     "uuid": "0ce8e93f-0317-5e92-a537-a9a0f92b335e",
     "type": "ip-dst|port",
     "category": "Network activity",
@@ -460,6 +478,24 @@
     ]
    },
    {
+    "uuid": "f75449de-5598-577a-b062-693d2777cca0",
+    "type": "ip-dst|port",
+    "category": "Network activity",
+    "value": "111.90.145.35|20078",
+    "to_ids": true,
+    "deleted": false,
+    "distribution": "5",
+    "timestamp": "1794776869",
+    "first_seen": "2026-11-14T04:50:47+00:00",
+    "last_seen": "2026-11-15T20:54:02+00:00",
+    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T20:54:02Z; expires 2026-11-29T20:54:02Z; cluster FM-C-0857",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
     "uuid": "b73e7b68-19f3-5b58-8013-af70af92a166",
     "type": "ip-dst|port",
     "category": "Network activity",
@@ -485,10 +521,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794751663",
+    "timestamp": "1794776869",
     "first_seen": "2026-11-13T22:40:43+00:00",
-    "last_seen": "2026-11-15T13:52:36+00:00",
-    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T13:52:36Z; expires 2026-11-29T13:52:36Z; cluster FM-C-0859",
+    "last_seen": "2026-11-15T20:53:30+00:00",
+    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T20:53:30Z; expires 2026-11-29T20:53:30Z; cluster FM-C-0859",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -593,10 +629,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794751663",
+    "timestamp": "1794776869",
     "first_seen": "2026-11-13T20:31:52+00:00",
-    "last_seen": "2026-11-15T13:38:11+00:00",
-    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T13:38:11Z; expires 2026-11-29T13:38:11Z",
+    "last_seen": "2026-11-15T20:53:30+00:00",
+    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T20:53:30Z; expires 2026-11-29T20:53:30Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -611,10 +647,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794751663",
+    "timestamp": "1794776869",
     "first_seen": "2026-11-14T21:49:40+00:00",
-    "last_seen": "2026-11-15T13:46:48+00:00",
-    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T13:46:48Z; expires 2026-11-29T13:46:48Z",
+    "last_seen": "2026-11-15T20:53:30+00:00",
+    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T20:53:30Z; expires 2026-11-29T20:53:30Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -629,10 +665,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794751663",
+    "timestamp": "1794776869",
     "first_seen": "2026-11-14T00:29:56+00:00",
-    "last_seen": "2026-11-15T13:39:44+00:00",
-    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T13:39:44Z; expires 2026-11-29T13:39:44Z; cluster FM-C-0859",
+    "last_seen": "2026-11-15T20:54:02+00:00",
+    "comment": "JAR Staging ost; confidence 80; last verified live 2026-11-15T20:54:02Z; expires 2026-11-29T20:54:02Z; cluster FM-C-0859",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""

@@ -7,8 +7,8 @@
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1794852457",
-  "publish_timestamp": "1794852457",
+  "timestamp": "1794856082",
+  "publish_timestamp": "1794856082",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
@@ -377,10 +377,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794830901",
+    "timestamp": "1794856082",
     "first_seen": "2026-10-17T20:43:09+00:00",
-    "last_seen": "2026-11-16T12:04:31+00:00",
-    "comment": "Viper c2; confidence 95; last verified live 2026-11-16T12:04:31Z; expires 2026-11-30T12:04:31Z",
+    "last_seen": "2026-11-16T19:04:06+00:00",
+    "comment": "Viper c2; confidence 95; last verified live 2026-11-16T19:04:06Z; expires 2026-11-30T19:04:06Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"almost-certain\""
@@ -395,10 +395,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794830901",
+    "timestamp": "1794856082",
     "first_seen": "2026-09-30T01:24:55+00:00",
-    "last_seen": "2026-11-16T11:23:05+00:00",
-    "comment": "Viper c2; confidence 95; last verified live 2026-11-16T11:23:05Z; expires 2026-11-30T11:23:05Z",
+    "last_seen": "2026-11-16T19:04:06+00:00",
+    "comment": "Viper c2; confidence 95; last verified live 2026-11-16T19:04:06Z; expires 2026-11-30T19:04:06Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"almost-certain\""
@@ -420,24 +420,6 @@
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
-    "uuid": "f73b71cf-0378-5686-9d42-0fcb7dc1fe45",
-    "type": "ip-dst",
-    "category": "Network activity",
-    "value": "203.195.217.161",
-    "to_ids": true,
-    "deleted": false,
-    "distribution": "5",
-    "timestamp": "1794341257",
-    "first_seen": "2026-09-30T02:07:12+00:00",
-    "last_seen": "2026-11-02T18:42:26+00:00",
-    "comment": "Viper c2; confidence 95; last verified live 2026-11-02T18:42:26Z; expires 2026-11-16T18:42:26Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"almost-certain\""
      }
     ]
    },
@@ -593,10 +575,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794830901",
+    "timestamp": "1794856082",
     "first_seen": "2026-09-30T02:07:12+00:00",
-    "last_seen": "2026-11-16T12:04:31+00:00",
-    "comment": "Viper c2; confidence 80; last verified live 2026-11-16T12:04:31Z; expires 2026-11-30T12:04:31Z",
+    "last_seen": "2026-11-16T18:48:24+00:00",
+    "comment": "Viper c2; confidence 80; last verified live 2026-11-16T18:48:24Z; expires 2026-11-30T18:48:24Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -971,10 +953,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794830901",
+    "timestamp": "1794856082",
     "first_seen": "2026-10-17T20:43:09+00:00",
-    "last_seen": "2026-11-16T12:04:31+00:00",
-    "comment": "Viper c2; confidence 95; last verified live 2026-11-16T12:04:31Z; expires 2026-11-30T12:04:31Z",
+    "last_seen": "2026-11-16T19:04:06+00:00",
+    "comment": "Viper c2; confidence 95; last verified live 2026-11-16T19:04:06Z; expires 2026-11-30T19:04:06Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"almost-certain\""
@@ -989,10 +971,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794830901",
+    "timestamp": "1794856082",
     "first_seen": "2026-09-30T01:24:55+00:00",
-    "last_seen": "2026-11-16T11:23:05+00:00",
-    "comment": "Viper c2; confidence 95; last verified live 2026-11-16T11:23:05Z; expires 2026-11-30T11:23:05Z",
+    "last_seen": "2026-11-16T19:04:06+00:00",
+    "comment": "Viper c2; confidence 95; last verified live 2026-11-16T19:04:06Z; expires 2026-11-30T19:04:06Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"almost-certain\""
@@ -1014,24 +996,6 @@
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
-    "uuid": "718e4ebe-eda2-5cbd-aeff-5f4b36b811da",
-    "type": "ip-dst|port",
-    "category": "Network activity",
-    "value": "203.195.217.161|60000",
-    "to_ids": true,
-    "deleted": false,
-    "distribution": "5",
-    "timestamp": "1794341257",
-    "first_seen": "2026-09-30T02:07:12+00:00",
-    "last_seen": "2026-11-02T18:42:26+00:00",
-    "comment": "Viper c2; confidence 95; last verified live 2026-11-02T18:42:26Z; expires 2026-11-16T18:42:26Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"almost-certain\""
      }
     ]
    },
@@ -1187,10 +1151,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794830901",
+    "timestamp": "1794856082",
     "first_seen": "2026-09-30T02:07:12+00:00",
-    "last_seen": "2026-11-16T12:04:31+00:00",
-    "comment": "Viper c2; confidence 80; last verified live 2026-11-16T12:04:31Z; expires 2026-11-30T12:04:31Z",
+    "last_seen": "2026-11-16T18:48:24+00:00",
+    "comment": "Viper c2; confidence 80; last verified live 2026-11-16T18:48:24Z; expires 2026-11-30T18:48:24Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -1342,6 +1306,24 @@
     ]
    },
    {
+    "uuid": "f73b71cf-0378-5686-9d42-0fcb7dc1fe45",
+    "type": "ip-dst",
+    "category": "Network activity",
+    "value": "203.195.217.161",
+    "to_ids": false,
+    "deleted": true,
+    "distribution": "5",
+    "timestamp": "1794856082",
+    "first_seen": "2026-09-30T02:07:12+00:00",
+    "last_seen": "2026-11-02T18:42:26+00:00",
+    "comment": "Viper c2; confidence 95; last verified live 2026-11-02T18:42:26Z; expires 2026-11-16T18:42:26Z; no longer observed since 2026-11-16T19:08:02Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"almost-certain\""
+     }
+    ]
+   },
+   {
     "uuid": "1cf7c0a3-97f2-5572-9ccf-72f60d43fc61",
     "type": "ip-dst",
     "category": "Network activity",
@@ -1482,6 +1464,24 @@
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
+    "uuid": "718e4ebe-eda2-5cbd-aeff-5f4b36b811da",
+    "type": "ip-dst|port",
+    "category": "Network activity",
+    "value": "203.195.217.161|60000",
+    "to_ids": false,
+    "deleted": true,
+    "distribution": "5",
+    "timestamp": "1794856082",
+    "first_seen": "2026-09-30T02:07:12+00:00",
+    "last_seen": "2026-11-02T18:42:26+00:00",
+    "comment": "Viper c2; confidence 95; last verified live 2026-11-02T18:42:26Z; expires 2026-11-16T18:42:26Z; no longer observed since 2026-11-16T19:08:02Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"almost-certain\""
      }
     ]
    },

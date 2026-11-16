@@ -7,8 +7,8 @@
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1794845267",
-  "publish_timestamp": "1794845267",
+  "timestamp": "1794848872",
+  "publish_timestamp": "1794848872",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
@@ -197,10 +197,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794823655",
+    "timestamp": "1794848872",
     "first_seen": "2026-11-12T19:19:57+00:00",
-    "last_seen": "2026-11-16T09:35:01+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-16T09:35:01Z; expires 2026-11-30T09:35:01Z",
+    "last_seen": "2026-11-16T16:42:10+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-16T16:42:10Z; expires 2026-11-30T16:42:10Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -305,10 +305,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794823655",
+    "timestamp": "1794848872",
     "first_seen": "2026-09-30T17:07:33+00:00",
-    "last_seen": "2026-11-16T09:35:01+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-16T09:35:01Z; expires 2026-11-30T09:35:01Z; cluster FM-C-0453",
+    "last_seen": "2026-11-16T16:42:10+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-16T16:42:10Z; expires 2026-11-30T16:42:10Z; cluster FM-C-0453",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -449,10 +449,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794816456",
+    "timestamp": "1794848872",
     "first_seen": "2026-09-30T17:07:33+00:00",
-    "last_seen": "2026-11-16T07:43:24+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-16T07:43:24Z; expires 2026-11-30T07:43:24Z",
+    "last_seen": "2026-11-16T16:42:10+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-16T16:42:10Z; expires 2026-11-30T16:42:10Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -665,10 +665,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794823655",
+    "timestamp": "1794848872",
     "first_seen": "2026-11-12T19:19:57+00:00",
-    "last_seen": "2026-11-16T09:35:01+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-16T09:35:01Z; expires 2026-11-30T09:35:01Z",
+    "last_seen": "2026-11-16T16:42:10+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-16T16:42:10Z; expires 2026-11-30T16:42:10Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -773,10 +773,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794823655",
+    "timestamp": "1794848872",
     "first_seen": "2026-09-30T17:07:33+00:00",
-    "last_seen": "2026-11-16T09:35:01+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-16T09:35:01Z; expires 2026-11-30T09:35:01Z; cluster FM-C-0453",
+    "last_seen": "2026-11-16T16:42:10+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-16T16:42:10Z; expires 2026-11-30T16:42:10Z; cluster FM-C-0453",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -917,10 +917,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794816456",
+    "timestamp": "1794848872",
     "first_seen": "2026-09-30T17:07:33+00:00",
-    "last_seen": "2026-11-16T07:43:24+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-16T07:43:24Z; expires 2026-11-30T07:43:24Z",
+    "last_seen": "2026-11-16T16:42:10+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-16T16:42:10Z; expires 2026-11-30T16:42:10Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -1083,24 +1083,6 @@
     "first_seen": "2026-10-25T23:35:15+00:00",
     "last_seen": "2026-10-28T12:31:51+00:00",
     "comment": "Supershell c2; confidence 85; last verified live 2026-10-28T12:31:51Z; expires 2026-11-11T12:31:51Z; no longer observed since 2026-10-30T23:07:29Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
-    "uuid": "7b02632f-1111-5769-b1d8-b1a3d22556cd",
-    "type": "ip-dst",
-    "category": "Network activity",
-    "value": "123.11.167.35",
-    "to_ids": false,
-    "deleted": true,
-    "distribution": "5",
-    "timestamp": "1792256851",
-    "first_seen": "2026-10-13T10:49:01+00:00",
-    "last_seen": "2026-10-15T08:37:40+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-10-15T08:37:40Z; expires 2026-10-29T08:37:40Z; no longer observed since 2026-10-17T17:07:31Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -1587,24 +1569,6 @@
     "first_seen": "2026-10-25T23:35:15+00:00",
     "last_seen": "2026-10-28T12:31:51+00:00",
     "comment": "Supershell c2; confidence 85; last verified live 2026-10-28T12:31:51Z; expires 2026-11-11T12:31:51Z; no longer observed since 2026-10-30T23:07:29Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
-    "uuid": "4487845f-6768-5911-8ef4-3408deaaaf11",
-    "type": "ip-dst|port",
-    "category": "Network activity",
-    "value": "123.11.167.35|5873",
-    "to_ids": false,
-    "deleted": true,
-    "distribution": "5",
-    "timestamp": "1792256851",
-    "first_seen": "2026-10-13T10:49:01+00:00",
-    "last_seen": "2026-10-15T08:37:40+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-10-15T08:37:40Z; expires 2026-10-29T08:37:40Z; no longer observed since 2026-10-17T17:07:31Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""

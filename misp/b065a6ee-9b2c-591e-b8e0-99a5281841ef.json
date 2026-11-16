@@ -2,7 +2,7 @@
  "Event": {
   "uuid": "b065a6ee-9b2c-591e-b8e0-99a5281841ef",
   "info": "FerroMagnet: Oktos offensive-tooling infrastructure",
-  "date": "2026-09-26",
+  "date": "2026-09-28",
   "analysis": "1",
   "threat_level_id": "2",
   "distribution": "3",
@@ -298,24 +298,6 @@
     ]
    },
    {
-    "uuid": "d8bf58ea-24c5-5d8d-812b-c43ad3d01169",
-    "type": "ip-dst",
-    "category": "Network activity",
-    "value": "60.204.240.193",
-    "to_ids": false,
-    "deleted": true,
-    "distribution": "5",
-    "timestamp": "1792202880",
-    "first_seen": "2026-09-26T13:36:29+00:00",
-    "last_seen": "2026-10-16T19:35:00+00:00",
-    "comment": "Oktos ost; confidence 80; last verified live 2026-10-16T19:35:00Z; expires 2026-10-30T19:35:00Z; no longer observed since 2026-10-17T02:08:00Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
     "uuid": "1f6174d2-c3d3-5d03-8722-1c328134df98",
     "type": "ip-dst|port",
     "category": "Network activity",
@@ -471,24 +453,6 @@
     "first_seen": "2026-09-29T12:18:54+00:00",
     "last_seen": "2026-10-22T02:01:53+00:00",
     "comment": "Oktos ost; confidence 80; last verified live 2026-10-22T02:01:53Z; expires 2026-11-05T02:01:53Z; no longer observed since 2026-10-24T11:07:33Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
-    "uuid": "6214a437-a948-56e8-a853-15dec0bc3a13",
-    "type": "ip-dst|port",
-    "category": "Network activity",
-    "value": "60.204.240.193|8888",
-    "to_ids": false,
-    "deleted": true,
-    "distribution": "5",
-    "timestamp": "1792202880",
-    "first_seen": "2026-09-26T13:36:29+00:00",
-    "last_seen": "2026-10-16T19:35:00+00:00",
-    "comment": "Oktos ost; confidence 80; last verified live 2026-10-16T19:35:00Z; expires 2026-10-30T19:35:00Z; no longer observed since 2026-10-17T02:08:00Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""

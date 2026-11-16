@@ -2,7 +2,7 @@
  "Event": {
   "uuid": "b3777d25-4197-5b09-a5df-b8fad6530ae1",
   "info": "FerroMagnet: VenomRAT C2 infrastructure",
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "analysis": "1",
   "threat_level_id": "2",
   "distribution": "3",
@@ -751,24 +751,6 @@
     ]
    },
    {
-    "uuid": "10911ed6-d7d5-5ef6-9a6f-358e27700812",
-    "type": "ip-dst",
-    "category": "Network activity",
-    "value": "93.127.133.251",
-    "to_ids": false,
-    "deleted": true,
-    "distribution": "5",
-    "timestamp": "1792213649",
-    "first_seen": "2026-09-16T12:52:36+00:00",
-    "last_seen": "2026-10-19T13:47:11+00:00",
-    "comment": "VenomRAT c2; confidence 85; last verified live 2026-10-14T10:54:56Z; expires 2026-11-02T13:47:11Z; no longer observed since 2026-10-17T05:07:29Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
     "uuid": "80758ec4-227a-51ba-aa9c-db7a3e5a659c",
     "type": "ip-dst|port",
     "category": "Network activity",
@@ -841,24 +823,6 @@
     ]
    },
    {
-    "uuid": "3b7374af-2751-5439-b906-3d29257051dd",
-    "type": "ip-dst|port",
-    "category": "Network activity",
-    "value": "93.127.133.251|6006",
-    "to_ids": false,
-    "deleted": true,
-    "distribution": "5",
-    "timestamp": "1792213649",
-    "first_seen": "2026-09-16T12:52:36+00:00",
-    "last_seen": "2026-10-19T13:47:11+00:00",
-    "comment": "VenomRAT c2; confidence 85; last verified live 2026-10-14T10:54:56Z; expires 2026-11-02T13:47:11Z; no longer observed since 2026-10-17T05:07:29Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
     "uuid": "a49136c3-936f-5be7-87e3-a656fb2762b5",
     "type": "link",
     "category": "External analysis",
@@ -866,7 +830,7 @@
     "to_ids": false,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1789563156",
+    "timestamp": "1789685671",
     "comment": "Malpedia: win.venom"
    }
   ]

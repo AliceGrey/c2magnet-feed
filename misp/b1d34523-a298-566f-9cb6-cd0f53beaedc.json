@@ -7,8 +7,8 @@
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1794924452",
-  "publish_timestamp": "1794924452",
+  "timestamp": "1794931654",
+  "publish_timestamp": "1794931654",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
@@ -41,10 +41,28 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794906451",
+    "timestamp": "1794931654",
     "first_seen": "2026-11-12T08:48:40+00:00",
-    "last_seen": "2026-11-17T08:17:49+00:00",
-    "comment": "BruteRatel c2; confidence 80; last verified live 2026-11-17T08:17:49Z; expires 2026-12-01T08:17:49Z",
+    "last_seen": "2026-11-17T16:01:51+00:00",
+    "comment": "BruteRatel c2; confidence 80; last verified live 2026-11-17T16:01:51Z; expires 2026-12-01T16:01:51Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
+    "uuid": "e384a0dd-82aa-5454-a444-d63f186de5f1",
+    "type": "ip-dst",
+    "category": "Network activity",
+    "value": "13.193.196.32",
+    "to_ids": true,
+    "deleted": false,
+    "distribution": "5",
+    "timestamp": "1794931654",
+    "first_seen": "2026-11-16T05:52:45+00:00",
+    "last_seen": "2026-11-17T15:16:12+00:00",
+    "comment": "BruteRatel c2; confidence 80; last verified live 2026-11-17T15:16:12Z; expires 2026-12-01T15:16:12Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -149,10 +167,28 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1794906451",
+    "timestamp": "1794931654",
     "first_seen": "2026-11-12T08:48:40+00:00",
-    "last_seen": "2026-11-17T08:17:49+00:00",
-    "comment": "BruteRatel c2; confidence 80; last verified live 2026-11-17T08:17:49Z; expires 2026-12-01T08:17:49Z",
+    "last_seen": "2026-11-17T16:01:51+00:00",
+    "comment": "BruteRatel c2; confidence 80; last verified live 2026-11-17T16:01:51Z; expires 2026-12-01T16:01:51Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
+    "uuid": "8016795b-8365-5c1f-9d37-51860639a092",
+    "type": "ip-dst|port",
+    "category": "Network activity",
+    "value": "13.193.196.32|80",
+    "to_ids": true,
+    "deleted": false,
+    "distribution": "5",
+    "timestamp": "1794931654",
+    "first_seen": "2026-11-16T05:52:45+00:00",
+    "last_seen": "2026-11-17T15:16:12+00:00",
+    "comment": "BruteRatel c2; confidence 80; last verified live 2026-11-17T15:16:12Z; expires 2026-12-01T15:16:12Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""

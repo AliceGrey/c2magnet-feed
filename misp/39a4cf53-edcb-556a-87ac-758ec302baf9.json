@@ -7,8 +7,8 @@
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1795100852",
-  "publish_timestamp": "1795100852",
+  "timestamp": "1795104453",
+  "publish_timestamp": "1795104453",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
@@ -305,10 +305,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795075657",
+    "timestamp": "1795104453",
     "first_seen": "2026-09-29T17:17:48+00:00",
-    "last_seen": "2026-11-19T07:12:32+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-19T07:12:32Z; expires 2026-12-03T07:12:32Z",
+    "last_seen": "2026-11-19T15:41:52+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-19T15:41:52Z; expires 2026-12-03T15:41:52Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -496,24 +496,6 @@
     ]
    },
    {
-    "uuid": "efa54cf1-51c5-51e8-b07b-c91f6334bf0d",
-    "type": "ip-dst",
-    "category": "Network activity",
-    "value": "47.74.242.253",
-    "to_ids": true,
-    "deleted": false,
-    "distribution": "5",
-    "timestamp": "1795072066",
-    "first_seen": "2026-09-30T17:07:33+00:00",
-    "last_seen": "2026-11-05T15:35:05+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-05T15:35:05Z; expires 2026-11-19T15:35:05Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
     "uuid": "cc59759f-d751-5303-931b-a1de3cf8f449",
     "type": "ip-dst",
     "category": "Network activity",
@@ -521,10 +503,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795079258",
+    "timestamp": "1795104453",
     "first_seen": "2026-09-30T17:07:33+00:00",
-    "last_seen": "2026-11-19T09:03:28+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-19T09:03:28Z; expires 2026-12-03T09:03:28Z",
+    "last_seen": "2026-11-19T15:49:56+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-19T15:49:56Z; expires 2026-12-03T15:49:56Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -845,10 +827,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795075657",
+    "timestamp": "1795104453",
     "first_seen": "2026-09-30T17:07:33+00:00",
-    "last_seen": "2026-11-19T07:12:32+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-19T07:12:32Z; expires 2026-12-03T07:12:32Z",
+    "last_seen": "2026-11-19T15:41:52+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-19T15:41:52Z; expires 2026-12-03T15:41:52Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -1036,24 +1018,6 @@
     ]
    },
    {
-    "uuid": "94c341bb-5dee-5391-9e75-c81f948e688e",
-    "type": "ip-dst|port",
-    "category": "Network activity",
-    "value": "47.74.242.253|8888",
-    "to_ids": true,
-    "deleted": false,
-    "distribution": "5",
-    "timestamp": "1795072066",
-    "first_seen": "2026-09-30T17:07:33+00:00",
-    "last_seen": "2026-11-05T15:35:05+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-05T15:35:05Z; expires 2026-11-19T15:35:05Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
     "uuid": "0b6cd81c-2e1f-5fa7-812d-79a6c17c57a3",
     "type": "ip-dst|port",
     "category": "Network activity",
@@ -1061,10 +1025,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795079258",
+    "timestamp": "1795104453",
     "first_seen": "2026-09-30T17:07:33+00:00",
-    "last_seen": "2026-11-19T09:03:28+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-19T09:03:28Z; expires 2026-12-03T09:03:28Z",
+    "last_seen": "2026-11-19T15:49:56+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-19T15:49:56Z; expires 2026-12-03T15:49:56Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -1479,6 +1443,24 @@
     "first_seen": "2026-10-25T19:35:38+00:00",
     "last_seen": "2026-10-29T01:42:54+00:00",
     "comment": "Supershell c2; confidence 85; last verified live 2026-10-29T01:42:54Z; expires 2026-11-12T01:42:54Z; no longer observed since 2026-10-31T11:07:26Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
+    "uuid": "efa54cf1-51c5-51e8-b07b-c91f6334bf0d",
+    "type": "ip-dst",
+    "category": "Network activity",
+    "value": "47.74.242.253",
+    "to_ids": false,
+    "deleted": true,
+    "distribution": "5",
+    "timestamp": "1795104453",
+    "first_seen": "2026-09-30T17:07:33+00:00",
+    "last_seen": "2026-11-05T15:35:05+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-05T15:35:05Z; expires 2026-11-19T15:35:05Z; no longer observed since 2026-11-19T16:07:33Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -1911,6 +1893,24 @@
     "first_seen": "2026-10-25T19:35:38+00:00",
     "last_seen": "2026-10-29T01:42:54+00:00",
     "comment": "Supershell c2; confidence 85; last verified live 2026-10-29T01:42:54Z; expires 2026-11-12T01:42:54Z; no longer observed since 2026-10-31T11:07:26Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
+    "uuid": "94c341bb-5dee-5391-9e75-c81f948e688e",
+    "type": "ip-dst|port",
+    "category": "Network activity",
+    "value": "47.74.242.253|8888",
+    "to_ids": false,
+    "deleted": true,
+    "distribution": "5",
+    "timestamp": "1795104453",
+    "first_seen": "2026-09-30T17:07:33+00:00",
+    "last_seen": "2026-11-05T15:35:05+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-05T15:35:05Z; expires 2026-11-19T15:35:05Z; no longer observed since 2026-11-19T16:07:33Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""

@@ -1,5 +1,5 @@
 # FerroMagnet feed: ip:port indicators
-# generated 2026-11-21T16:07:36Z, 10091 entries
+# generated 2026-11-21T17:08:58Z, 10101 entries
 # columns: value  (family, confidence, last_seen as a trailing comment)
 # --- ARTEX
 1.117.76.217:8787  # ARTEX c=80 last_seen=2026-11-16
@@ -3225,7 +3225,6 @@
 8.208.102.33:443  # ARTEX c=80 last_seen=2026-11-07
 8.208.127.129:8787  # ARTEX c=80 last_seen=2026-11-21
 8.208.23.225:443  # ARTEX c=80 last_seen=2026-11-07
-8.208.27.4:443  # ARTEX c=80 last_seen=2026-11-07
 8.211.181.202:8080  # ARTEX c=80 last_seen=2026-11-21
 8.213.149.29:8787  # ARTEX c=80 last_seen=2026-11-21
 8.216.100.107:8787  # ARTEX c=80 last_seen=2026-11-21
@@ -4076,6 +4075,7 @@
 217.216.54.78:20500  # AsyncRAT c=85 last_seen=2026-11-21
 217.216.54.78:20600  # AsyncRAT c=85 last_seen=2026-11-21
 217.216.54.78:5005  # AsyncRAT c=85 last_seen=2026-11-21
+217.216.54.78:50300  # AsyncRAT c=85 last_seen=2026-11-21
 217.216.54.78:6006  # AsyncRAT c=85 last_seen=2026-11-21
 217.216.54.78:7007  # AsyncRAT c=85 last_seen=2026-11-21
 217.216.54.78:8008  # AsyncRAT c=85 last_seen=2026-11-21
@@ -4345,7 +4345,7 @@
 49.235.158.141:1111  # CobaltStrike c=95 last_seen=2026-11-21
 5.189.191.124:88  # CobaltStrike c=95 last_seen=2026-11-16
 51.159.194.10:50050  # CobaltStrike c=95 last_seen=2026-11-21
-52.200.14.94:443  # CobaltStrike c=95 last_seen=2026-11-20
+52.200.14.94:443  # CobaltStrike c=95 last_seen=2026-11-21
 62.234.145.239:50050  # CobaltStrike c=90 last_seen=2026-11-21
 64.118.152.184:50050  # CobaltStrike c=90 last_seen=2026-11-21
 64.118.154.106:50050  # CobaltStrike c=90 last_seen=2026-11-20
@@ -5921,7 +5921,6 @@
 217.69.174.15:4242  # PureLogs c=90 last_seen=2026-11-21
 31.220.15.80:8443  # PureLogs c=90 last_seen=2026-11-19
 38.49.213.170:2443  # PureLogs c=90 last_seen=2026-11-16
-48.202.58.22:5011  # PureLogs c=90 last_seen=2026-11-14
 5.230.201.189:8443  # PureLogs c=90 last_seen=2026-11-20
 64.89.160.210:8443  # PureLogs c=90 last_seen=2026-11-21
 64.89.161.158:443  # PureLogs c=80 last_seen=2026-11-12
@@ -5943,6 +5942,7 @@
 102.220.163.36:56001  # PureRAT c=85 last_seen=2026-11-21
 102.220.163.36:56002  # PureRAT c=85 last_seen=2026-11-21
 102.220.163.36:56003  # PureRAT c=85 last_seen=2026-11-21
+102.220.163.85:56003  # PureRAT c=85 last_seen=2026-11-19
 102.220.163.96:56001  # PureRAT c=85 last_seen=2026-11-21
 102.220.163.96:56002  # PureRAT c=85 last_seen=2026-11-21
 102.220.163.96:56003  # PureRAT c=85 last_seen=2026-11-21
@@ -6106,8 +6106,8 @@
 109.122.18.189:56003  # PureRAT c=85 last_seen=2026-11-21
 109.122.18.75:443  # PureRAT c=90 last_seen=2026-11-21
 109.122.18.75:56001  # PureRAT c=85 last_seen=2026-11-19
-109.122.18.75:56002  # PureRAT c=85 last_seen=2026-11-19
-109.122.18.75:56003  # PureRAT c=85 last_seen=2026-11-19
+109.122.18.75:56002  # PureRAT c=85 last_seen=2026-11-20
+109.122.18.75:56003  # PureRAT c=85 last_seen=2026-11-20
 109.238.86.125:56001  # PureRAT c=85 last_seen=2026-11-21
 109.238.86.125:56002  # PureRAT c=85 last_seen=2026-11-21
 109.238.86.125:56003  # PureRAT c=85 last_seen=2026-11-21
@@ -6120,7 +6120,7 @@
 111.90.143.218:56001  # PureRAT c=85 last_seen=2026-11-15
 111.90.143.218:56002  # PureRAT c=85 last_seen=2026-11-15
 111.90.143.218:56003  # PureRAT c=85 last_seen=2026-11-15
-13.140.145.60:9500  # PureRAT c=85 last_seen=2026-11-20
+13.140.145.60:9500  # PureRAT c=85 last_seen=2026-11-21
 13.140.249.167:56001  # PureRAT c=85 last_seen=2026-11-21
 13.140.249.167:56002  # PureRAT c=85 last_seen=2026-11-21
 13.140.249.167:56003  # PureRAT c=85 last_seen=2026-11-21
@@ -6162,8 +6162,9 @@
 140.228.29.62:56001  # PureRAT c=85 last_seen=2026-11-21
 140.228.29.62:56002  # PureRAT c=85 last_seen=2026-11-21
 140.228.29.62:56003  # PureRAT c=85 last_seen=2026-11-21
+141.98.11.33:56001  # PureRAT c=85 last_seen=2026-11-21
 141.98.11.33:56002  # PureRAT c=85 last_seen=2026-11-21
-143.246.198.22:56001  # PureRAT c=85 last_seen=2026-11-16
+143.246.198.22:56001  # PureRAT c=85 last_seen=2026-11-18
 143.246.198.22:56002  # PureRAT c=85 last_seen=2026-11-16
 143.246.198.22:56003  # PureRAT c=85 last_seen=2026-11-16
 143.246.203.20:56001  # PureRAT c=85 last_seen=2026-11-21
@@ -6286,7 +6287,7 @@
 155.94.163.235:56001  # PureRAT c=85 last_seen=2026-11-16
 155.94.163.235:56002  # PureRAT c=85 last_seen=2026-11-16
 155.94.163.235:56003  # PureRAT c=85 last_seen=2026-11-16
-156.240.3.133:56001  # PureRAT c=85 last_seen=2026-11-18
+156.240.3.133:56001  # PureRAT c=85 last_seen=2026-11-19
 156.240.3.133:56002  # PureRAT c=85 last_seen=2026-11-18
 156.240.3.133:56003  # PureRAT c=85 last_seen=2026-11-19
 156.240.3.169:56001  # PureRAT c=85 last_seen=2026-11-18
@@ -6311,7 +6312,7 @@
 160.187.240.116:56002  # PureRAT c=85 last_seen=2026-11-21
 160.187.240.116:56003  # PureRAT c=85 last_seen=2026-11-21
 160.250.181.159:56001  # PureRAT c=85 last_seen=2026-11-20
-160.250.181.159:56002  # PureRAT c=85 last_seen=2026-11-20
+160.250.181.159:56002  # PureRAT c=85 last_seen=2026-11-21
 160.250.181.159:56003  # PureRAT c=85 last_seen=2026-11-20
 160.250.181.200:56001  # PureRAT c=85 last_seen=2026-11-21
 160.250.181.200:56002  # PureRAT c=85 last_seen=2026-11-21
@@ -6357,7 +6358,7 @@
 172.245.92.100:56001  # PureRAT c=85 last_seen=2026-11-19
 172.245.92.100:56002  # PureRAT c=85 last_seen=2026-11-19
 172.245.92.100:56003  # PureRAT c=85 last_seen=2026-11-19
-172.81.132.156:56003  # PureRAT c=85 last_seen=2026-11-19
+172.81.132.156:56003  # PureRAT c=85 last_seen=2026-11-20
 172.81.132.158:56001  # PureRAT c=85 last_seen=2026-11-21
 172.81.132.158:56002  # PureRAT c=85 last_seen=2026-11-21
 172.81.132.158:56003  # PureRAT c=85 last_seen=2026-11-21
@@ -6380,7 +6381,7 @@
 172.93.110.43:56003  # PureRAT c=85 last_seen=2026-11-19
 172.93.110.81:443  # PureRAT c=90 last_seen=2026-11-18
 172.93.161.96:56002  # PureRAT c=85 last_seen=2026-11-19
-172.93.161.96:56003  # PureRAT c=85 last_seen=2026-11-19
+172.93.161.96:56003  # PureRAT c=85 last_seen=2026-11-20
 172.93.180.22:56001  # PureRAT c=85 last_seen=2026-11-21
 172.93.180.22:56002  # PureRAT c=85 last_seen=2026-11-21
 172.93.180.22:56003  # PureRAT c=85 last_seen=2026-11-21
@@ -6439,7 +6440,7 @@
 185.163.204.138:56003  # PureRAT c=85 last_seen=2026-11-18
 185.173.145.123:1996  # PureRAT c=85 last_seen=2026-11-19
 185.190.142.225:56001  # PureRAT c=85 last_seen=2026-11-19
-185.190.142.225:56002  # PureRAT c=85 last_seen=2026-11-19
+185.190.142.225:56002  # PureRAT c=85 last_seen=2026-11-21
 185.190.142.225:56003  # PureRAT c=85 last_seen=2026-11-19
 185.191.239.244:56001  # PureRAT c=85 last_seen=2026-11-21
 185.191.239.244:56002  # PureRAT c=85 last_seen=2026-11-21
@@ -6488,7 +6489,7 @@
 191.96.25.122:56002  # PureRAT c=85 last_seen=2026-11-21
 191.96.25.122:56003  # PureRAT c=85 last_seen=2026-11-21
 191.96.79.8:443  # PureRAT c=90 last_seen=2026-11-20
-191.96.79.8:56003  # PureRAT c=85 last_seen=2026-11-18
+191.96.79.8:56003  # PureRAT c=85 last_seen=2026-11-19
 192.229.106.30:442  # PureRAT c=85 last_seen=2026-11-21
 192.229.106.30:443  # PureRAT c=85 last_seen=2026-11-21
 192.229.106.32:442  # PureRAT c=85 last_seen=2026-11-21
@@ -6544,6 +6545,9 @@
 196.251.107.109:56001  # PureRAT c=85 last_seen=2026-11-21
 196.251.107.109:56002  # PureRAT c=85 last_seen=2026-11-21
 196.251.107.109:56003  # PureRAT c=85 last_seen=2026-11-21
+196.251.107.244:56001  # PureRAT c=85 last_seen=2026-11-20
+196.251.107.244:56002  # PureRAT c=85 last_seen=2026-11-20
+196.251.107.244:56003  # PureRAT c=85 last_seen=2026-11-20
 196.251.121.192:56001  # PureRAT c=85 last_seen=2026-11-21
 196.251.121.192:56002  # PureRAT c=85 last_seen=2026-11-21
 196.251.121.192:56003  # PureRAT c=85 last_seen=2026-11-21
@@ -6650,10 +6654,10 @@
 202.79.174.177:56002  # PureRAT c=85 last_seen=2026-11-18
 202.79.174.177:56003  # PureRAT c=85 last_seen=2026-11-18
 202.79.174.183:56002  # PureRAT c=85 last_seen=2026-11-18
-202.79.174.183:56003  # PureRAT c=85 last_seen=2026-11-17
+202.79.174.183:56003  # PureRAT c=85 last_seen=2026-11-18
 202.79.174.184:56001  # PureRAT c=85 last_seen=2026-11-18
 202.79.174.184:56002  # PureRAT c=85 last_seen=2026-11-18
-202.79.174.184:56003  # PureRAT c=85 last_seen=2026-11-17
+202.79.174.184:56003  # PureRAT c=85 last_seen=2026-11-18
 204.197.162.164:56001  # PureRAT c=85 last_seen=2026-11-21
 204.197.162.164:56002  # PureRAT c=85 last_seen=2026-11-21
 204.197.162.164:56003  # PureRAT c=85 last_seen=2026-11-21
@@ -6691,6 +6695,7 @@
 207.180.29.221:56002  # PureRAT c=85 last_seen=2026-11-21
 207.180.29.221:56003  # PureRAT c=85 last_seen=2026-11-21
 209.50.254.186:443  # PureRAT c=90 last_seen=2026-11-21
+212.100.169.204:56001  # PureRAT c=85 last_seen=2026-11-21
 212.100.169.204:56002  # PureRAT c=85 last_seen=2026-11-21
 212.100.169.204:56003  # PureRAT c=85 last_seen=2026-11-21
 212.100.169.217:56001  # PureRAT c=85 last_seen=2026-11-21
@@ -6814,7 +6819,7 @@
 31.77.183.237:56003  # PureRAT c=85 last_seen=2026-11-21
 31.77.57.28:6767  # PureRAT c=85 last_seen=2026-11-18
 35.247.235.208:56001  # PureRAT c=85 last_seen=2026-11-11
-37.120.156.119:56003  # PureRAT c=85 last_seen=2026-11-13
+37.120.156.119:56003  # PureRAT c=85 last_seen=2026-11-21
 37.120.222.88:56001  # PureRAT c=85 last_seen=2026-11-21
 37.120.222.88:56002  # PureRAT c=85 last_seen=2026-11-21
 37.120.222.88:56003  # PureRAT c=85 last_seen=2026-11-21
@@ -6898,6 +6903,7 @@
 45.139.104.232:443  # PureRAT c=90 last_seen=2026-11-21
 45.139.104.232:55009  # PureRAT c=85 last_seen=2026-11-20
 45.139.104.26:55010  # PureRAT c=85 last_seen=2026-11-21
+45.139.104.26:55012  # PureRAT c=85 last_seen=2026-11-21
 45.139.104.29:443  # PureRAT c=90 last_seen=2026-11-18
 45.139.104.29:49101  # PureRAT c=85 last_seen=2026-11-18
 45.139.104.37:56001  # PureRAT c=85 last_seen=2026-11-20
@@ -6909,9 +6915,9 @@
 45.139.104.68:56001  # PureRAT c=85 last_seen=2026-11-21
 45.139.104.68:56002  # PureRAT c=85 last_seen=2026-11-21
 45.139.104.68:56003  # PureRAT c=85 last_seen=2026-11-21
-45.141.21.115:54221  # PureRAT c=85 last_seen=2026-11-16
-45.141.21.125:56001  # PureRAT c=85 last_seen=2026-11-17
-45.141.21.125:56003  # PureRAT c=85 last_seen=2026-11-17
+45.141.21.115:54221  # PureRAT c=85 last_seen=2026-11-17
+45.141.21.125:56001  # PureRAT c=85 last_seen=2026-11-18
+45.141.21.125:56003  # PureRAT c=85 last_seen=2026-11-18
 45.144.212.109:56003  # PureRAT c=85 last_seen=2026-11-11
 45.146.81.141:443  # PureRAT c=90 last_seen=2026-11-21
 45.146.81.141:56003  # PureRAT c=85 last_seen=2026-11-20
@@ -6949,13 +6955,13 @@
 45.225.135.237:56002  # PureRAT c=85 last_seen=2026-11-21
 45.225.135.237:56003  # PureRAT c=85 last_seen=2026-11-20
 45.225.135.238:56001  # PureRAT c=85 last_seen=2026-11-20
-45.225.135.238:56002  # PureRAT c=85 last_seen=2026-11-19
+45.225.135.238:56002  # PureRAT c=85 last_seen=2026-11-20
 45.225.135.238:56003  # PureRAT c=85 last_seen=2026-11-19
 45.225.135.240:56001  # PureRAT c=85 last_seen=2026-11-20
 45.225.135.240:56002  # PureRAT c=85 last_seen=2026-11-20
 45.225.135.240:56003  # PureRAT c=85 last_seen=2026-11-20
 45.225.135.242:56001  # PureRAT c=85 last_seen=2026-11-20
-45.225.135.242:56002  # PureRAT c=85 last_seen=2026-11-19
+45.225.135.242:56002  # PureRAT c=85 last_seen=2026-11-20
 45.225.135.242:56003  # PureRAT c=85 last_seen=2026-11-19
 45.43.14.39:56001  # PureRAT c=85 last_seen=2026-11-20
 45.43.14.39:56002  # PureRAT c=85 last_seen=2026-11-20
@@ -6976,7 +6982,7 @@
 45.86.158.59:443  # PureRAT c=90 last_seen=2026-11-21
 45.86.68.215:4810  # PureRAT c=85 last_seen=2026-11-20
 45.88.91.165:443  # PureRAT c=90 last_seen=2026-11-20
-45.88.91.165:7590  # PureRAT c=85 last_seen=2026-11-18
+45.88.91.165:7590  # PureRAT c=85 last_seen=2026-11-20
 46.151.182.120:56001  # PureRAT c=85 last_seen=2026-11-13
 46.151.182.120:56002  # PureRAT c=85 last_seen=2026-11-13
 46.151.182.120:56003  # PureRAT c=85 last_seen=2026-11-13
@@ -6997,13 +7003,13 @@
 5.253.86.251:443  # PureRAT c=90 last_seen=2026-11-21
 50.114.179.6:56701  # PureRAT c=85 last_seen=2026-11-18
 50.114.179.6:56802  # PureRAT c=85 last_seen=2026-11-18
-50.114.179.6:56903  # PureRAT c=85 last_seen=2026-11-18
+50.114.179.6:56903  # PureRAT c=85 last_seen=2026-11-21
 51.79.138.169:56001  # PureRAT c=85 last_seen=2026-11-21
 51.79.138.169:56002  # PureRAT c=85 last_seen=2026-11-21
 51.79.138.169:56003  # PureRAT c=85 last_seen=2026-11-21
 51.79.171.104:56001  # PureRAT c=85 last_seen=2026-11-21
 52.128.230.18:443  # PureRAT c=85 last_seen=2026-11-21
-52.128.230.19:443  # PureRAT c=85 last_seen=2026-11-19
+52.128.230.19:443  # PureRAT c=85 last_seen=2026-11-21
 52.128.230.20:443  # PureRAT c=85 last_seen=2026-11-21
 52.128.230.21:443  # PureRAT c=85 last_seen=2026-11-20
 52.128.230.22:443  # PureRAT c=85 last_seen=2026-11-20
@@ -7035,7 +7041,7 @@
 65.110.40.180:56003  # PureRAT c=85 last_seen=2026-11-16
 66.220.29.48:443  # PureRAT c=90 last_seen=2026-11-18
 66.94.113.10:443  # PureRAT c=90 last_seen=2026-11-21
-66.94.113.10:57003  # PureRAT c=85 last_seen=2026-11-19
+66.94.113.10:57003  # PureRAT c=85 last_seen=2026-11-20
 67.207.161.235:56001  # PureRAT c=85 last_seen=2026-11-21
 67.207.161.235:56002  # PureRAT c=85 last_seen=2026-11-21
 67.207.161.235:56003  # PureRAT c=85 last_seen=2026-11-21
@@ -7045,9 +7051,9 @@
 67.21.33.89:56001  # PureRAT c=85 last_seen=2026-11-21
 67.21.33.89:56002  # PureRAT c=85 last_seen=2026-11-21
 67.21.33.89:56003  # PureRAT c=85 last_seen=2026-11-21
-67.43.53.33:56001  # PureRAT c=85 last_seen=2026-11-14
-67.43.53.33:56002  # PureRAT c=85 last_seen=2026-11-14
-67.43.53.33:56003  # PureRAT c=85 last_seen=2026-11-14
+67.43.53.33:56001  # PureRAT c=85 last_seen=2026-11-16
+67.43.53.33:56002  # PureRAT c=85 last_seen=2026-11-16
+67.43.53.33:56003  # PureRAT c=85 last_seen=2026-11-15
 69.10.49.196:443  # PureRAT c=90 last_seen=2026-11-11
 69.10.49.235:56001  # PureRAT c=85 last_seen=2026-11-17
 70.36.115.36:443  # PureRAT c=90 last_seen=2026-11-18
@@ -7074,7 +7080,7 @@
 72.51.59.189:56002  # PureRAT c=85 last_seen=2026-11-21
 72.51.59.189:56003  # PureRAT c=85 last_seen=2026-11-21
 72.51.59.222:56001  # PureRAT c=85 last_seen=2026-11-20
-72.51.59.222:56002  # PureRAT c=85 last_seen=2026-11-20
+72.51.59.222:56002  # PureRAT c=85 last_seen=2026-11-21
 72.51.59.222:56003  # PureRAT c=85 last_seen=2026-11-20
 72.51.59.29:56001  # PureRAT c=85 last_seen=2026-11-21
 72.51.59.29:56002  # PureRAT c=85 last_seen=2026-11-21
@@ -7163,6 +7169,9 @@
 94.26.104.93:56001  # PureRAT c=85 last_seen=2026-11-10
 94.26.104.93:56002  # PureRAT c=85 last_seen=2026-11-10
 94.26.104.93:56003  # PureRAT c=85 last_seen=2026-11-10
+95.155.151.47:56001  # PureRAT c=85 last_seen=2026-11-16
+95.155.151.47:56002  # PureRAT c=85 last_seen=2026-11-16
+95.155.151.47:56003  # PureRAT c=85 last_seen=2026-11-16
 95.155.151.97:56001  # PureRAT c=85 last_seen=2026-11-21
 95.155.151.97:56002  # PureRAT c=85 last_seen=2026-11-21
 95.155.151.97:56003  # PureRAT c=85 last_seen=2026-11-21
@@ -7716,6 +7725,7 @@
 103.243.26.81:443  # Sliver c=95 last_seen=2026-11-21
 103.253.42.61:31337  # Sliver c=90 last_seen=2026-11-21
 103.253.43.20:31337  # Sliver c=90 last_seen=2026-11-16
+103.72.56.236:31337  # Sliver c=90 last_seen=2026-11-21
 103.74.93.14:31337  # Sliver c=90 last_seen=2026-11-18
 103.79.185.72:31337  # Sliver c=90 last_seen=2026-11-20
 104.194.149.219:443  # Sliver c=95 last_seen=2026-11-13

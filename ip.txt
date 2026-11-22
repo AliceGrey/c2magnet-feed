@@ -1,5 +1,5 @@
 # FerroMagnet feed: ip indicators
-# generated 2026-11-22T16:07:49Z, 8244 entries
+# generated 2026-11-22T17:07:42Z, 8245 entries
 # columns: value  (family, confidence, last_seen as a trailing comment)
 # --- ARTEX
 1.117.76.217  # ARTEX c=80 last_seen=2026-11-16
@@ -246,6 +246,10 @@
 104.250.122.7  # ARTEX c=80 last_seen=2026-11-22
 104.251.180.72  # ARTEX c=80 last_seen=2026-11-11
 104.251.181.158  # ARTEX c=80 last_seen=2026-11-22
+104.255.152.102  # ARTEX c=80 last_seen=2026-11-22
+104.255.152.222  # ARTEX c=80 last_seen=2026-11-22
+104.255.152.225  # ARTEX c=80 last_seen=2026-11-22
+104.255.152.49  # ARTEX c=80 last_seen=2026-11-22
 104.64.205.114  # ARTEX c=80 last_seen=2026-11-22
 106.12.146.147  # ARTEX c=80 last_seen=2026-11-22
 106.12.35.83  # ARTEX c=80 last_seen=2026-11-22
@@ -328,7 +332,6 @@
 108.165.147.226  # ARTEX c=80 last_seen=2026-11-22
 108.165.177.205  # ARTEX c=80 last_seen=2026-11-22
 108.174.207.20  # ARTEX c=80 last_seen=2026-11-22
-108.186.112.75  # ARTEX c=80 last_seen=2026-11-08
 108.186.180.214  # ARTEX c=80 last_seen=2026-11-22
 108.186.222.188  # ARTEX c=80 last_seen=2026-11-21
 108.186.222.230  # ARTEX c=80 last_seen=2026-11-14
@@ -1293,7 +1296,7 @@
 165.154.226.29  # ARTEX c=80 last_seen=2026-11-22
 165.154.227.78  # ARTEX c=80 last_seen=2026-11-22
 165.154.233.85  # ARTEX c=80 last_seen=2026-11-22
-165.154.244.183  # ARTEX c=80 last_seen=2026-11-21
+165.154.244.183  # ARTEX c=80 last_seen=2026-11-22
 165.154.245.173  # ARTEX c=80 last_seen=2026-11-20
 165.154.253.133  # ARTEX c=80 last_seen=2026-11-22
 165.154.254.109  # ARTEX c=80 last_seen=2026-11-22
@@ -2994,6 +2997,7 @@
 62.234.45.132  # ARTEX c=80 last_seen=2026-11-22
 62.234.90.178  # ARTEX c=80 last_seen=2026-11-22
 62.50.145.5  # ARTEX c=80 last_seen=2026-11-22
+62.50.145.7  # ARTEX c=80 last_seen=2026-11-22
 62.83.72.151  # ARTEX c=80 last_seen=2026-11-22
 64.111.92.184  # ARTEX c=80 last_seen=2026-11-13
 64.112.40.123  # ARTEX c=80 last_seen=2026-11-22
@@ -4374,7 +4378,6 @@
 115.196.50.134  # FRP c=90 last_seen=2026-11-17
 115.211.216.61  # FRP c=90 last_seen=2026-11-22
 115.211.220.202  # FRP c=90 last_seen=2026-11-15
-115.211.222.171  # FRP c=90 last_seen=2026-11-08
 115.28.139.56  # FRP c=85 last_seen=2026-11-09
 115.29.110.222  # FRP c=85 last_seen=2026-11-22
 116.101.192.52  # FRP c=90 last_seen=2026-11-18
@@ -4398,7 +4401,6 @@
 116.63.142.255  # FRP c=85 last_seen=2026-11-22
 117.131.91.109  # FRP c=90 last_seen=2026-11-18
 117.175.138.240  # FRP c=90 last_seen=2026-11-22
-117.25.95.45  # FRP c=90 last_seen=2026-11-08
 117.72.100.77  # FRP c=90 last_seen=2026-11-22
 117.72.198.19  # FRP c=90 last_seen=2026-11-22
 117.72.202.144  # FRP c=90 last_seen=2026-11-22
@@ -4431,7 +4433,6 @@
 119.29.137.145  # FRP c=90 last_seen=2026-11-22
 119.29.15.153  # FRP c=90 last_seen=2026-11-22
 119.29.153.188  # FRP c=90 last_seen=2026-11-22
-119.4.52.160  # FRP c=90 last_seen=2026-11-08
 119.4.52.234  # FRP c=90 last_seen=2026-11-22
 119.45.12.243  # FRP c=90 last_seen=2026-11-22
 119.45.199.197  # FRP c=90 last_seen=2026-11-22
@@ -4534,7 +4535,6 @@
 122.152.194.58  # FRP c=90 last_seen=2026-11-22
 122.51.129.198  # FRP c=90 last_seen=2026-11-22
 122.51.20.62  # FRP c=90 last_seen=2026-11-22
-122.96.214.62  # FRP c=90 last_seen=2026-11-08
 123.117.237.255  # FRP c=90 last_seen=2026-11-22
 123.120.50.26  # FRP c=90 last_seen=2026-11-22
 123.135.113.174  # FRP c=90 last_seen=2026-11-22
@@ -5325,6 +5325,7 @@
 109.68.215.91  # Ligolo-ng c=85 last_seen=2026-11-22
 124.156.204.199  # Ligolo-ng c=85 last_seen=2026-11-22
 129.80.218.92  # Ligolo-ng c=85 last_seen=2026-11-22
+13.140.84.134  # Ligolo-ng c=85 last_seen=2026-11-22
 13.232.210.62  # Ligolo-ng c=85 last_seen=2026-11-22
 130.210.0.253  # Ligolo-ng c=85 last_seen=2026-11-18
 135.181.88.229  # Ligolo-ng c=85 last_seen=2026-11-22
@@ -5337,7 +5338,6 @@
 15.237.157.156  # Ligolo-ng c=85 last_seen=2026-11-22
 151.158.134.194  # Ligolo-ng c=85 last_seen=2026-11-10
 154.196.139.25  # Ligolo-ng c=85 last_seen=2026-11-22
-157.230.80.211  # Ligolo-ng c=85 last_seen=2026-11-10
 157.245.186.149  # Ligolo-ng c=85 last_seen=2026-11-22
 158.255.1.176  # Ligolo-ng c=85 last_seen=2026-11-18
 167.88.172.122  # Ligolo-ng c=85 last_seen=2026-11-16
@@ -5353,7 +5353,6 @@
 191.232.198.103  # Ligolo-ng c=85 last_seen=2026-11-21
 193.242.184.217  # Ligolo-ng c=85 last_seen=2026-11-11
 194.48.248.65  # Ligolo-ng c=85 last_seen=2026-11-15
-194.59.31.172  # Ligolo-ng c=85 last_seen=2026-11-08
 194.87.71.171  # Ligolo-ng c=85 last_seen=2026-11-15
 195.114.193.33  # Ligolo-ng c=85 last_seen=2026-11-22
 195.128.100.227  # Ligolo-ng c=85 last_seen=2026-11-19
@@ -5381,7 +5380,6 @@
 31.169.126.155  # Ligolo-ng c=85 last_seen=2026-11-22
 31.57.219.203  # Ligolo-ng c=85 last_seen=2026-11-22
 34.19.22.113  # Ligolo-ng c=85 last_seen=2026-11-19
-38.134.189.93  # Ligolo-ng c=85 last_seen=2026-11-10
 38.242.151.91  # Ligolo-ng c=85 last_seen=2026-11-22
 38.60.215.180  # Ligolo-ng c=85 last_seen=2026-11-16
 38.80.148.157  # Ligolo-ng c=85 last_seen=2026-11-18
@@ -5686,6 +5684,7 @@
 15.235.188.81  # PureRAT c=85 last_seen=2026-11-22
 150.241.226.3  # PureRAT c=85 last_seen=2026-11-20
 150.40.98.46  # PureRAT c=85 last_seen=2026-11-16
+151.242.170.26  # PureRAT c=85 last_seen=2026-11-22
 151.242.97.164  # PureRAT c=85 last_seen=2026-11-22
 151.244.232.237  # PureRAT c=85 last_seen=2026-11-22
 151.244.232.96  # PureRAT c=85 last_seen=2026-11-22
@@ -6850,6 +6849,7 @@
 88.80.16.70  # Sliver c=95 last_seen=2026-11-22
 89.106.83.136  # Sliver c=90 last_seen=2026-11-21
 89.106.83.157  # Sliver c=90 last_seen=2026-11-20
+89.106.83.214  # Sliver c=90 last_seen=2026-11-21
 89.110.77.130  # Sliver c=85 last_seen=2026-11-22
 89.125.10.160  # Sliver c=90 last_seen=2026-11-17
 89.125.255.44  # Sliver c=90 last_seen=2026-11-13
@@ -8066,6 +8066,7 @@
 49.235.103.121  # VShell c=85 last_seen=2026-11-22
 49.235.130.208  # VShell c=85 last_seen=2026-11-22
 49.235.131.10  # VShell c=85 last_seen=2026-11-22
+49.235.134.179  # VShell c=85 last_seen=2026-11-22
 49.235.150.254  # VShell c=85 last_seen=2026-11-22
 49.235.158.141  # VShell c=85 last_seen=2026-11-22
 49.7.54.211  # VShell c=85 last_seen=2026-11-22

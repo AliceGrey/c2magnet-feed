@@ -1,5 +1,5 @@
 # FerroMagnet feed: ip:port indicators
-# generated 2026-11-23T15:07:40Z, 10758 entries
+# generated 2026-11-23T16:07:55Z, 10760 entries
 # columns: value  (family, confidence, last_seen as a trailing comment)
 # --- ARTEX
 1.117.76.217:8787  # ARTEX c=80 last_seen=2026-11-16
@@ -336,7 +336,7 @@
 106.55.34.199:8443  # ARTEX c=80 last_seen=2026-11-23
 106.55.34.199:8787  # ARTEX c=80 last_seen=2026-11-23
 106.55.37.128:18091  # ARTEX c=80 last_seen=2026-11-23
-106.55.60.151:8787  # ARTEX c=80 last_seen=2026-11-22
+106.55.60.151:8787  # ARTEX c=80 last_seen=2026-11-23
 106.75.20.72:8787  # ARTEX c=80 last_seen=2026-11-21
 106.75.209.40:18787  # ARTEX c=80 last_seen=2026-11-23
 106.75.240.21:8787  # ARTEX c=80 last_seen=2026-11-23
@@ -605,6 +605,7 @@
 124.220.188.136:8787  # ARTEX c=80 last_seen=2026-11-23
 124.220.224.8:8787  # ARTEX c=80 last_seen=2026-11-21
 124.220.235.194:8787  # ARTEX c=80 last_seen=2026-11-23
+124.220.42.40:8787  # ARTEX c=80 last_seen=2026-11-23
 124.220.83.49:8787  # ARTEX c=80 last_seen=2026-11-23
 124.220.93.11:8787  # ARTEX c=80 last_seen=2026-11-13
 124.221.1.97:8787  # ARTEX c=80 last_seen=2026-11-23
@@ -1748,6 +1749,7 @@
 192.238.181.195:8787  # ARTEX c=80 last_seen=2026-11-11
 192.238.181.210:443  # ARTEX c=80 last_seen=2026-11-23
 192.238.181.210:8787  # ARTEX c=80 last_seen=2026-11-11
+192.238.232.232:8787  # ARTEX c=80 last_seen=2026-11-23
 192.238.238.29:8787  # ARTEX c=80 last_seen=2026-11-23
 192.238.245.116:8787  # ARTEX c=80 last_seen=2026-11-17
 192.238.245.37:443  # ARTEX c=80 last_seen=2026-11-15
@@ -1760,13 +1762,13 @@
 192.238.249.245:5678  # ARTEX c=80 last_seen=2026-11-19
 192.238.249.247:5678  # ARTEX c=80 last_seen=2026-11-23
 192.238.249.72:18443  # ARTEX c=80 last_seen=2026-11-19
-192.238.253.120:5678  # ARTEX c=80 last_seen=2026-11-19
+192.238.253.120:5678  # ARTEX c=80 last_seen=2026-11-23
 192.238.253.120:5680  # ARTEX c=80 last_seen=2026-11-19
 192.238.253.176:5678  # ARTEX c=80 last_seen=2026-11-23
 192.238.253.214:5678  # ARTEX c=80 last_seen=2026-11-23
-192.238.253.25:5678  # ARTEX c=80 last_seen=2026-11-19
-192.238.253.30:5678  # ARTEX c=80 last_seen=2026-11-19
-192.238.253.98:5678  # ARTEX c=80 last_seen=2026-11-19
+192.238.253.25:5678  # ARTEX c=80 last_seen=2026-11-23
+192.238.253.30:5678  # ARTEX c=80 last_seen=2026-11-23
+192.238.253.98:5678  # ARTEX c=80 last_seen=2026-11-23
 192.238.253.98:5680  # ARTEX c=80 last_seen=2026-11-19
 192.25.102.243:8443  # ARTEX c=80 last_seen=2026-11-23
 192.252.179.122:8787  # ARTEX c=80 last_seen=2026-11-19
@@ -2057,7 +2059,7 @@
 23.224.79.107:8787  # ARTEX c=80 last_seen=2026-11-21
 23.224.79.108:8787  # ARTEX c=80 last_seen=2026-11-21
 23.224.79.109:80  # ARTEX c=80 last_seen=2026-11-16
-23.224.79.109:8787  # ARTEX c=80 last_seen=2026-11-21
+23.224.79.109:8787  # ARTEX c=80 last_seen=2026-11-23
 23.224.79.110:8787  # ARTEX c=80 last_seen=2026-11-21
 23.226.70.138:443  # ARTEX c=80 last_seen=2026-11-23
 23.226.70.139:443  # ARTEX c=80 last_seen=2026-11-23
@@ -4606,6 +4608,7 @@
 159.65.42.43:60560  # BruteRatel c=80 last_seen=2026-11-23
 213.199.35.149:443  # BruteRatel c=80 last_seen=2026-11-23
 45.55.98.175:60560  # BruteRatel c=80 last_seen=2026-11-23
+54.250.175.118:80  # BruteRatel c=80 last_seen=2026-11-23
 # --- CobaltStrike
 1.117.74.144:12564  # CobaltStrike c=85 last_seen=2026-11-23
 1.117.74.144:18443  # CobaltStrike c=95 last_seen=2026-11-23
@@ -4734,8 +4737,6 @@
 176.121.48.1:443  # CobaltStrike c=95 last_seen=2026-11-16
 176.121.49.1:443  # CobaltStrike c=95 last_seen=2026-11-16
 176.121.49.225:443  # CobaltStrike c=95 last_seen=2026-11-16
-176.121.50.1:443  # CobaltStrike c=95 last_seen=2026-11-16
-176.121.51.1:443  # CobaltStrike c=95 last_seen=2026-11-16
 176.121.60.1:443  # CobaltStrike c=95 last_seen=2026-11-16
 176.123.5.4:443  # CobaltStrike c=95 last_seen=2026-11-19
 177.4.8.125:61010  # CobaltStrike c=95 last_seen=2026-11-23
@@ -5269,7 +5270,6 @@
 118.89.86.158:7500  # FRP c=90 last_seen=2026-11-23
 119.108.74.254:7500  # FRP c=90 last_seen=2026-11-20
 119.13.80.115:7500  # FRP c=90 last_seen=2026-11-23
-119.135.0.121:59704  # FRP c=90 last_seen=2026-11-09
 119.135.0.90:59704  # FRP c=90 last_seen=2026-11-22
 119.23.13.131:7001  # FRP c=85 last_seen=2026-11-23
 119.23.60.150:7500  # FRP c=90 last_seen=2026-11-23
@@ -6610,6 +6610,7 @@
 104.238.60.241:56002  # PureRAT c=85 last_seen=2026-11-23
 104.238.60.241:56003  # PureRAT c=85 last_seen=2026-11-23
 104.243.34.247:443  # PureRAT c=90 last_seen=2026-11-23
+104.243.34.247:56003  # PureRAT c=85 last_seen=2026-11-23
 104.243.43.193:56001  # PureRAT c=85 last_seen=2026-11-23
 104.243.43.193:56002  # PureRAT c=85 last_seen=2026-11-23
 104.243.43.193:56003  # PureRAT c=85 last_seen=2026-11-23
@@ -7133,6 +7134,7 @@
 193.148.56.169:56001  # PureRAT c=85 last_seen=2026-11-16
 193.148.56.169:56002  # PureRAT c=85 last_seen=2026-11-16
 193.148.56.169:56003  # PureRAT c=85 last_seen=2026-11-16
+193.164.5.4:9991  # PureRAT c=85 last_seen=2026-11-23
 193.178.159.115:56001  # PureRAT c=85 last_seen=2026-11-23
 193.178.159.115:56002  # PureRAT c=85 last_seen=2026-11-23
 193.178.159.115:56003  # PureRAT c=85 last_seen=2026-11-23
@@ -7857,7 +7859,7 @@
 108.216.43.217:4782  # QuasarRAT c=85 last_seen=2026-11-13
 110.40.210.153:4782  # QuasarRAT c=85 last_seen=2026-11-23
 113.161.47.16:4782  # QuasarRAT c=80 last_seen=2026-11-23
-113.171.155.202:2536  # QuasarRAT c=85 last_seen=2026-11-21
+113.171.155.202:2536  # QuasarRAT c=85 last_seen=2026-11-22
 113.243.32.213:4782  # QuasarRAT c=85 last_seen=2026-11-23
 113.243.32.3:4782  # QuasarRAT c=85 last_seen=2026-11-10
 120.26.136.167:8088  # QuasarRAT c=85 last_seen=2026-11-23
@@ -7912,7 +7914,7 @@
 193.161.193.99:37871  # QuasarRAT c=85 last_seen=2026-11-20
 193.161.193.99:44589  # QuasarRAT c=85 last_seen=2026-11-15
 193.161.193.99:51010  # QuasarRAT c=85 last_seen=2026-11-17
-193.161.193.99:63943  # QuasarRAT c=85 last_seen=2026-11-18
+193.161.193.99:63943  # QuasarRAT c=85 last_seen=2026-11-19
 193.25.217.13:4782  # QuasarRAT c=80 last_seen=2026-11-23
 194.59.30.44:9619  # QuasarRAT c=85 last_seen=2026-11-21
 194.59.31.37:9724  # QuasarRAT c=85 last_seen=2026-11-23
@@ -9019,7 +9021,7 @@
 101.47.131.71:7556  # VShell c=85 last_seen=2026-11-23
 101.96.224.108:50005  # VShell c=85 last_seen=2026-11-20
 101.96.224.108:50007  # VShell c=85 last_seen=2026-11-20
-101.96.253.28:12201  # VShell c=85 last_seen=2026-11-19
+101.96.253.28:12201  # VShell c=85 last_seen=2026-11-23
 101.96.253.28:443  # VShell c=85 last_seen=2026-11-19
 101.99.91.180:80  # VShell c=85 last_seen=2026-11-23
 102.129.165.177:58642  # VShell c=85 last_seen=2026-11-11
@@ -10570,7 +10572,7 @@
 64.177.68.245:8084  # VShell c=85 last_seen=2026-11-23
 64.177.68.245:8085  # VShell c=85 last_seen=2026-11-23
 64.188.26.172:10000  # VShell c=85 last_seen=2026-11-23
-64.188.26.172:10001  # VShell c=85 last_seen=2026-11-14
+64.188.26.172:10001  # VShell c=85 last_seen=2026-11-23
 64.190.113.163:8443  # VShell c=85 last_seen=2026-11-11
 64.44.61.121:443  # VShell c=85 last_seen=2026-11-23
 64.7.199.177:10445  # VShell c=85 last_seen=2026-11-18

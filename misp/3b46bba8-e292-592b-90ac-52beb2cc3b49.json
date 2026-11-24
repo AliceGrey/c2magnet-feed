@@ -1,18 +1,18 @@
 {
  "Event": {
   "uuid": "3b46bba8-e292-592b-90ac-52beb2cc3b49",
-  "info": "FerroMagnet: PureLogs C2 infrastructure",
+  "info": "C2Magnet: PureLogs C2 infrastructure",
   "date": "2026-08-30",
   "analysis": "1",
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1795486057",
-  "publish_timestamp": "1795486057",
+  "timestamp": "1795493260",
+  "publish_timestamp": "1795493260",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
-   "name": "FerroMagnet",
+   "name": "C2Magnet",
    "uuid": "560e70be-921d-5f72-b281-7e6af1620e06"
   },
   "Tag": [
@@ -218,10 +218,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795468062",
+    "timestamp": "1795493260",
     "first_seen": "2026-09-26T02:03:04+00:00",
-    "last_seen": "2026-11-23T20:41:45+00:00",
-    "comment": "PureLogs c2; confidence 90; last verified live 2026-11-23T20:41:45Z; expires 2026-12-07T20:41:45Z",
+    "last_seen": "2026-11-24T03:57:15+00:00",
+    "comment": "PureLogs c2; confidence 90; last verified live 2026-11-24T03:57:15Z; expires 2026-12-08T03:57:15Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -704,10 +704,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795468062",
+    "timestamp": "1795493260",
     "first_seen": "2026-09-30T04:07:09+00:00",
-    "last_seen": "2026-11-23T20:41:45+00:00",
-    "comment": "PureLogs c2; confidence 90; last verified live 2026-11-23T20:41:45Z; expires 2026-12-07T20:41:45Z",
+    "last_seen": "2026-11-24T03:57:15+00:00",
+    "comment": "PureLogs c2; confidence 90; last verified live 2026-11-24T03:57:15Z; expires 2026-12-08T03:57:15Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""

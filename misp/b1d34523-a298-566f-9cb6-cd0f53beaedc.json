@@ -1,18 +1,18 @@
 {
  "Event": {
   "uuid": "b1d34523-a298-566f-9cb6-cd0f53beaedc",
-  "info": "FerroMagnet: BruteRatel C2 infrastructure",
+  "info": "C2Magnet: BruteRatel C2 infrastructure",
   "date": "2026-10-03",
   "analysis": "1",
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1795478856",
-  "publish_timestamp": "1795478856",
+  "timestamp": "1795493260",
+  "publish_timestamp": "1795493260",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
-   "name": "FerroMagnet",
+   "name": "C2Magnet",
    "uuid": "560e70be-921d-5f72-b281-7e6af1620e06"
   },
   "Tag": [
@@ -41,10 +41,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795468062",
+    "timestamp": "1795493260",
     "first_seen": "2026-11-16T05:52:45+00:00",
-    "last_seen": "2026-11-23T20:46:47+00:00",
-    "comment": "BruteRatel c2; confidence 80; last verified live 2026-11-23T20:46:47Z; expires 2026-12-07T20:46:47Z",
+    "last_seen": "2026-11-24T03:55:37+00:00",
+    "comment": "BruteRatel c2; confidence 80; last verified live 2026-11-24T03:55:37Z; expires 2026-12-08T03:55:37Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -131,10 +131,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795468062",
+    "timestamp": "1795493260",
     "first_seen": "2026-11-16T05:52:45+00:00",
-    "last_seen": "2026-11-23T20:46:47+00:00",
-    "comment": "BruteRatel c2; confidence 80; last verified live 2026-11-23T20:46:47Z; expires 2026-12-07T20:46:47Z",
+    "last_seen": "2026-11-24T03:55:37+00:00",
+    "comment": "BruteRatel c2; confidence 80; last verified live 2026-11-24T03:55:37Z; expires 2026-12-08T03:55:37Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""

@@ -1,6 +1,6 @@
-# FerroMagnet feed
+# C2Magnet feed
 
-Indicators of C2 and offensive-security-tooling infrastructure observed by FerroMagnet.
+Indicators of C2 and offensive-security-tooling infrastructure observed by C2Magnet.
 Only indicators that a live check confirmed are published. Updated automatically; each
 commit is one refresh in which at least one file changed. TLP:CLEAR.
 
@@ -27,7 +27,7 @@ IPv6 `ip:port` values are bracketed: `[2001:db8::1]:443`.
 An address used by several families is listed once under each of them (one actor often
 runs several tools on one host); in `stix/bundle.json` it is one indicator that indicates
 each family.
-`cluster_id` (`FM-C-0042`; MISP comment `cluster FM-C-0042`, STIX `x_ferromagnet_cluster`)
+`cluster_id` (`FM-C-0042`; MISP comment `cluster FM-C-0042`, STIX `x_c2magnet_cluster`)
 groups addresses that share operator-chosen infrastructure (a generated certificate, an
 SSH host key, names in a certificate) at overlapping times. It is an opaque, stable label
 for grouping indicators by operator, not an attribution, and it says nothing about what
@@ -35,23 +35,23 @@ was shared. Addresses with no such link have no cluster id.
 
 ## MISP
 
-Sync Actions > Feeds > Add feed: provider `FerroMagnet`, source format **MISP Feed**, URL
-`https://raw.githubusercontent.com/AliceGrey/ferromagnet-feed/main/misp/`, input source Network, enabled, caching enabled. Each family is one event
+Sync Actions > Feeds > Add feed: provider `C2Magnet`, source format **MISP Feed**, URL
+`https://raw.githubusercontent.com/AliceGrey/c2magnet-feed/main/misp/`, input source Network, enabled, caching enabled. Each family is one event
 (stable uuid) that is updated in place; `first_seen`/`last_seen` are set on every
 attribute, confidence is an `estimative-language:likelihood-probability` tag and in the
 comment, and indicators that lapse are sent as deleted attributes.
 
 For a plain block list instead: source format **Simple CSV Parsed Feed**, URL
-`https://raw.githubusercontent.com/AliceGrey/ferromagnet-feed/main/iocs.csv`, value column `2`; or **Freetext Parsed Feed** on `https://raw.githubusercontent.com/AliceGrey/ferromagnet-feed/main/ip_port.txt`.
+`https://raw.githubusercontent.com/AliceGrey/c2magnet-feed/main/iocs.csv`, value column `2`; or **Freetext Parsed Feed** on `https://raw.githubusercontent.com/AliceGrey/c2magnet-feed/main/ip_port.txt`.
 Only the values survive those formats (MISP drops per-row metadata).
 
 ## OpenCTI
 
 Integrations > CSV feeds > Import (OpenCTI 6.6 or later), choose `opencti/csv-feed.json`,
-then check the preview and start the feed. It polls `https://raw.githubusercontent.com/AliceGrey/ferromagnet-feed/main/iocs.csv` hourly and creates,
+then check the preview and start the feed. It polls `https://raw.githubusercontent.com/AliceGrey/c2magnet-feed/main/iocs.csv` hourly and creates,
 per row, an Indicator (pattern, confidence and score, valid from/until), the IPv4/IPv6
 address, the family as a Malware, and `indicates`/`based-on` relationships, authored by
-`FerroMagnet` and marked TLP:CLEAR.
+`C2Magnet` and marked TLP:CLEAR.
 
 `stix/bundle.json` uses OpenCTI's deterministic ids, so importing it (Data > Import, or
 any STIX 2.1 pipeline) updates objects in place instead of duplicating them.

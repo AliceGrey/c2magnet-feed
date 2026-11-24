@@ -2,9 +2,9 @@
  "openCTI_version": "6.6.0",
  "type": "csvFeeds",
  "configuration": {
-  "name": "FerroMagnet C2 infrastructure",
-  "description": "Verified C2 and offensive-tooling infrastructure from the FerroMagnet feed.",
-  "uri": "https://raw.githubusercontent.com/AliceGrey/ferromagnet-feed/main/iocs.csv",
+  "name": "C2Magnet C2 infrastructure",
+  "description": "Verified C2 and offensive-tooling infrastructure from the C2Magnet feed.",
+  "uri": "https://raw.githubusercontent.com/AliceGrey/c2magnet-feed/main/iocs.csv",
   "authentication_type": "none",
   "authentication_value": "",
   "markings": [],
@@ -12,7 +12,7 @@
   "csv_mapper_type": "inline",
   "csv_mapper": {
    "configuration": {
-    "name": "FerroMagnet iocs.csv",
+    "name": "C2Magnet iocs.csv",
     "has_header": true,
     "separator": ",",
     "skipLineChar": "#",
@@ -27,7 +27,7 @@
        {
         "key": "name",
         "default_values": [
-         "FerroMagnet"
+         "C2Magnet"
         ]
        }
       ]

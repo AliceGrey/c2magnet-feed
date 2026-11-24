@@ -1,18 +1,18 @@
 {
  "Event": {
   "uuid": "39a4cf53-edcb-556a-87ac-758ec302baf9",
-  "info": "FerroMagnet: Supershell C2 infrastructure",
+  "info": "C2Magnet: Supershell C2 infrastructure",
   "date": "2026-09-23",
   "analysis": "1",
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1795489657",
-  "publish_timestamp": "1795489657",
+  "timestamp": "1795493260",
+  "publish_timestamp": "1795493260",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
-   "name": "FerroMagnet",
+   "name": "C2Magnet",
    "uuid": "560e70be-921d-5f72-b281-7e6af1620e06"
   },
   "Tag": [
@@ -71,10 +71,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795468062",
+    "timestamp": "1795493260",
     "first_seen": "2026-11-13T10:14:25+00:00",
-    "last_seen": "2026-11-23T20:48:26+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-23T20:48:26Z; expires 2026-12-07T20:48:26Z",
+    "last_seen": "2026-11-24T03:58:18+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-24T03:58:18Z; expires 2026-12-08T03:58:18Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -413,10 +413,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795468062",
+    "timestamp": "1795493260",
     "first_seen": "2026-11-13T10:14:25+00:00",
-    "last_seen": "2026-11-23T20:48:26+00:00",
-    "comment": "Supershell c2; confidence 85; last verified live 2026-11-23T20:48:26Z; expires 2026-12-07T20:48:26Z",
+    "last_seen": "2026-11-24T03:58:18+00:00",
+    "comment": "Supershell c2; confidence 85; last verified live 2026-11-24T03:58:18Z; expires 2026-12-08T03:58:18Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""

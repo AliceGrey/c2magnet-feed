@@ -7,8 +7,8 @@
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1795558063",
-  "publish_timestamp": "1795558063",
+  "timestamp": "1795561657",
+  "publish_timestamp": "1795561657",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
@@ -243,6 +243,24 @@
     "first_seen": "2026-10-03T05:09:49+00:00",
     "last_seen": "2026-11-24T21:32:19+00:00",
     "comment": "Empire c2; confidence 90; last verified live 2026-11-24T21:32:19Z; expires 2026-12-08T21:32:19Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
+    "uuid": "d2ad440b-bd9e-5fdc-aabd-250890cac915",
+    "type": "ip-dst",
+    "category": "Network activity",
+    "value": "62.171.141.25",
+    "to_ids": true,
+    "deleted": false,
+    "distribution": "5",
+    "timestamp": "1795561657",
+    "first_seen": "2026-11-24T10:19:59+00:00",
+    "last_seen": "2026-11-24T22:16:09+00:00",
+    "comment": "Empire c2; confidence 90; last verified live 2026-11-24T22:16:09Z; expires 2026-12-08T22:16:09Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -567,6 +585,24 @@
     "first_seen": "2026-10-03T05:09:49+00:00",
     "last_seen": "2026-11-24T21:32:19+00:00",
     "comment": "Empire c2; confidence 90; last verified live 2026-11-24T21:32:19Z; expires 2026-12-08T21:32:19Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
+    "uuid": "ac3263dd-d994-51e4-8254-9edf563e0b8a",
+    "type": "ip-dst|port",
+    "category": "Network activity",
+    "value": "62.171.141.25|1337",
+    "to_ids": true,
+    "deleted": false,
+    "distribution": "5",
+    "timestamp": "1795561657",
+    "first_seen": "2026-11-24T10:19:59+00:00",
+    "last_seen": "2026-11-24T22:16:09+00:00",
+    "comment": "Empire c2; confidence 90; last verified live 2026-11-24T22:16:09Z; expires 2026-12-08T22:16:09Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""

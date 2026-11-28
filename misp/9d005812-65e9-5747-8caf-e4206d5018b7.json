@@ -7,8 +7,8 @@
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1795856855",
-  "publish_timestamp": "1795856855",
+  "timestamp": "1795860456",
+  "publish_timestamp": "1795860456",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
@@ -35,10 +35,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795835255",
+    "timestamp": "1795860456",
     "first_seen": "2026-11-13T10:35:12+00:00",
-    "last_seen": "2026-11-28T02:42:17+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T02:42:17Z; expires 2026-12-12T02:42:17Z",
+    "last_seen": "2026-11-28T09:42:11+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:42:11Z; expires 2026-12-12T09:42:11Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -161,10 +161,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795856855",
+    "timestamp": "1795860456",
     "first_seen": "2026-10-06T01:07:12+00:00",
-    "last_seen": "2026-11-28T08:39:03+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T08:39:03Z; expires 2026-12-12T08:39:03Z",
+    "last_seen": "2026-11-28T09:32:49+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:32:49Z; expires 2026-12-12T09:32:49Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -262,24 +262,6 @@
     ]
    },
    {
-    "uuid": "ddde7be7-d75d-5339-b526-aff1c802bbdc",
-    "type": "ip-dst",
-    "category": "Network activity",
-    "value": "142.86.4.175",
-    "to_ids": true,
-    "deleted": false,
-    "distribution": "5",
-    "timestamp": "1795662456",
-    "first_seen": "2026-11-22T16:13:21+00:00",
-    "last_seen": "2026-11-26T02:56:09+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-26T02:56:09Z; expires 2026-12-10T02:56:09Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
     "uuid": "a9271000-a1aa-5622-ac01-55e078b0ad03",
     "type": "ip-dst",
     "category": "Network activity",
@@ -359,10 +341,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795853256",
+    "timestamp": "1795860456",
     "first_seen": "2026-10-26T05:07:14+00:00",
-    "last_seen": "2026-11-28T07:31:46+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T07:31:46Z; expires 2026-12-12T07:31:46Z; cluster FM-C-0646",
+    "last_seen": "2026-11-28T09:31:46+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:31:46Z; expires 2026-12-12T09:31:46Z; cluster FM-C-0646",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -395,10 +377,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795835255",
+    "timestamp": "1795860456",
     "first_seen": "2026-11-13T02:44:50+00:00",
-    "last_seen": "2026-11-28T02:43:50+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T02:43:50Z; expires 2026-12-12T02:43:50Z; cluster FM-C-0533",
+    "last_seen": "2026-11-28T09:43:16+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:43:16Z; expires 2026-12-12T09:43:16Z; cluster FM-C-0533",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -737,10 +719,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795835255",
+    "timestamp": "1795860456",
     "first_seen": "2026-11-04T05:07:30+00:00",
-    "last_seen": "2026-11-28T02:49:15+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T02:49:15Z; expires 2026-12-12T02:49:15Z",
+    "last_seen": "2026-11-28T09:43:16+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:43:16Z; expires 2026-12-12T09:43:16Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -755,10 +737,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795853256",
+    "timestamp": "1795860456",
     "first_seen": "2026-10-22T17:07:20+00:00",
-    "last_seen": "2026-11-28T07:31:46+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T07:31:46Z; expires 2026-12-12T07:31:46Z; cluster FM-C-0599",
+    "last_seen": "2026-11-28T09:31:46+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:31:46Z; expires 2026-12-12T09:31:46Z; cluster FM-C-0599",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -773,10 +755,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795853256",
+    "timestamp": "1795860456",
     "first_seen": "2026-10-22T17:07:20+00:00",
-    "last_seen": "2026-11-28T07:32:19+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T07:32:19Z; expires 2026-12-12T07:32:19Z; cluster FM-C-0599",
+    "last_seen": "2026-11-28T09:40:37+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:40:37Z; expires 2026-12-12T09:40:37Z; cluster FM-C-0599",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -809,10 +791,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795853256",
+    "timestamp": "1795860456",
     "first_seen": "2026-10-29T05:07:09+00:00",
-    "last_seen": "2026-11-28T07:33:23+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T07:33:23Z; expires 2026-12-12T07:33:23Z",
+    "last_seen": "2026-11-28T09:31:48+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:31:48Z; expires 2026-12-12T09:31:48Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -845,10 +827,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795853256",
+    "timestamp": "1795860456",
     "first_seen": "2026-10-29T05:07:09+00:00",
-    "last_seen": "2026-11-28T07:40:49+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T07:40:49Z; expires 2026-12-12T07:40:49Z",
+    "last_seen": "2026-11-28T09:31:48+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:31:48Z; expires 2026-12-12T09:31:48Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -971,10 +953,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795835255",
+    "timestamp": "1795860456",
     "first_seen": "2026-11-22T17:36:40+00:00",
-    "last_seen": "2026-11-28T02:49:15+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T02:49:15Z; expires 2026-12-12T02:49:15Z",
+    "last_seen": "2026-11-28T09:42:44+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:42:44Z; expires 2026-12-12T09:42:44Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -1979,10 +1961,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795835255",
+    "timestamp": "1795860456",
     "first_seen": "2026-11-14T17:07:13+00:00",
-    "last_seen": "2026-11-28T02:40:39+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T02:40:39Z; expires 2026-12-12T02:40:39Z",
+    "last_seen": "2026-11-28T09:31:46+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:31:46Z; expires 2026-12-12T09:31:46Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -2123,10 +2105,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795835255",
+    "timestamp": "1795860456",
     "first_seen": "2026-11-13T10:35:12+00:00",
-    "last_seen": "2026-11-28T02:42:17+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T02:42:17Z; expires 2026-12-12T02:42:17Z",
+    "last_seen": "2026-11-28T09:42:11+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:42:11Z; expires 2026-12-12T09:42:11Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -2267,10 +2249,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795853256",
+    "timestamp": "1795860456",
     "first_seen": "2026-10-06T01:07:15+00:00",
-    "last_seen": "2026-11-28T07:33:56+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T07:33:56Z; expires 2026-12-12T07:33:56Z",
+    "last_seen": "2026-11-28T09:32:49+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:32:49Z; expires 2026-12-12T09:32:49Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -2350,24 +2332,6 @@
     ]
    },
    {
-    "uuid": "14ed32a2-7103-5a48-bf37-6d49b7f14354",
-    "type": "ip-dst|port",
-    "category": "Network activity",
-    "value": "142.86.4.175|443",
-    "to_ids": true,
-    "deleted": false,
-    "distribution": "5",
-    "timestamp": "1795662456",
-    "first_seen": "2026-11-22T16:13:21+00:00",
-    "last_seen": "2026-11-26T02:56:09+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-26T02:56:09Z; expires 2026-12-10T02:56:09Z",
-    "Tag": [
-     {
-      "name": "estimative-language:likelihood-probability=\"very-likely\""
-     }
-    ]
-   },
-   {
     "uuid": "b21c84a1-b641-5846-8cd4-ddeaa8b3fd1c",
     "type": "ip-dst|port",
     "category": "Network activity",
@@ -2429,10 +2393,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795853256",
+    "timestamp": "1795860456",
     "first_seen": "2026-10-26T05:07:14+00:00",
-    "last_seen": "2026-11-28T07:31:46+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T07:31:46Z; expires 2026-12-12T07:31:46Z; cluster FM-C-0646",
+    "last_seen": "2026-11-28T09:31:46+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:31:46Z; expires 2026-12-12T09:31:46Z; cluster FM-C-0646",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -2465,10 +2429,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795835255",
+    "timestamp": "1795860456",
     "first_seen": "2026-11-13T02:44:50+00:00",
-    "last_seen": "2026-11-28T02:43:50+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T02:43:50Z; expires 2026-12-12T02:43:50Z; cluster FM-C-0533",
+    "last_seen": "2026-11-28T09:43:16+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:43:16Z; expires 2026-12-12T09:43:16Z; cluster FM-C-0533",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -2753,10 +2717,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795835255",
+    "timestamp": "1795860456",
     "first_seen": "2026-11-17T10:19:24+00:00",
-    "last_seen": "2026-11-28T02:49:15+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T02:49:15Z; expires 2026-12-12T02:49:15Z",
+    "last_seen": "2026-11-28T09:43:16+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:43:16Z; expires 2026-12-12T09:43:16Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -2771,10 +2735,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795853256",
+    "timestamp": "1795860456",
     "first_seen": "2026-10-22T17:07:20+00:00",
-    "last_seen": "2026-11-28T07:31:46+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T07:31:46Z; expires 2026-12-12T07:31:46Z; cluster FM-C-0599",
+    "last_seen": "2026-11-28T09:31:46+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:31:46Z; expires 2026-12-12T09:31:46Z; cluster FM-C-0599",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -2789,10 +2753,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795853256",
+    "timestamp": "1795860456",
     "first_seen": "2026-10-22T17:07:20+00:00",
-    "last_seen": "2026-11-28T07:32:19+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T07:32:19Z; expires 2026-12-12T07:32:19Z; cluster FM-C-0599",
+    "last_seen": "2026-11-28T09:40:37+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:40:37Z; expires 2026-12-12T09:40:37Z; cluster FM-C-0599",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -2825,10 +2789,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795853256",
+    "timestamp": "1795860456",
     "first_seen": "2026-10-29T05:07:09+00:00",
-    "last_seen": "2026-11-28T07:33:23+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T07:33:23Z; expires 2026-12-12T07:33:23Z",
+    "last_seen": "2026-11-28T09:31:48+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:31:48Z; expires 2026-12-12T09:31:48Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -2861,10 +2825,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795853256",
+    "timestamp": "1795860456",
     "first_seen": "2026-10-29T05:07:09+00:00",
-    "last_seen": "2026-11-28T07:40:49+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T07:40:49Z; expires 2026-12-12T07:40:49Z",
+    "last_seen": "2026-11-28T09:31:48+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:31:48Z; expires 2026-12-12T09:31:48Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -2987,10 +2951,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795835255",
+    "timestamp": "1795860456",
     "first_seen": "2026-11-22T17:36:40+00:00",
-    "last_seen": "2026-11-28T02:49:15+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T02:49:15Z; expires 2026-12-12T02:49:15Z",
+    "last_seen": "2026-11-28T09:42:44+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:42:44Z; expires 2026-12-12T09:42:44Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -3851,10 +3815,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795835255",
+    "timestamp": "1795860456",
     "first_seen": "2026-11-14T17:07:13+00:00",
-    "last_seen": "2026-11-28T02:40:39+00:00",
-    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T02:40:39Z; expires 2026-12-12T02:40:39Z",
+    "last_seen": "2026-11-28T09:31:46+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-28T09:31:46Z; expires 2026-12-12T09:31:46Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -4233,6 +4197,24 @@
     "first_seen": "2026-11-23T15:17:07+00:00",
     "last_seen": "2026-11-24T00:25:38+00:00",
     "comment": "AntiFox ost; confidence 80; last verified live 2026-11-24T00:25:38Z; expires 2026-12-08T00:25:38Z; no longer observed since 2026-11-26T08:07:37Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
+    "uuid": "ddde7be7-d75d-5339-b526-aff1c802bbdc",
+    "type": "ip-dst",
+    "category": "Network activity",
+    "value": "142.86.4.175",
+    "to_ids": false,
+    "deleted": true,
+    "distribution": "5",
+    "timestamp": "1795860456",
+    "first_seen": "2026-11-22T16:13:21+00:00",
+    "last_seen": "2026-11-26T02:56:09+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-26T02:56:09Z; expires 2026-12-10T02:56:09Z; no longer observed since 2026-11-28T10:07:36Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -6969,6 +6951,24 @@
     "first_seen": "2026-11-23T16:18:24+00:00",
     "last_seen": "2026-11-24T00:25:38+00:00",
     "comment": "AntiFox ost; confidence 80; last verified live 2026-11-24T00:25:38Z; expires 2026-12-08T00:25:38Z; no longer observed since 2026-11-26T08:07:37Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
+    "uuid": "14ed32a2-7103-5a48-bf37-6d49b7f14354",
+    "type": "ip-dst|port",
+    "category": "Network activity",
+    "value": "142.86.4.175|443",
+    "to_ids": false,
+    "deleted": true,
+    "distribution": "5",
+    "timestamp": "1795860456",
+    "first_seen": "2026-11-22T16:13:21+00:00",
+    "last_seen": "2026-11-26T02:56:09+00:00",
+    "comment": "AntiFox ost; confidence 80; last verified live 2026-11-26T02:56:09Z; expires 2026-12-10T02:56:09Z; no longer observed since 2026-11-28T10:07:36Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""

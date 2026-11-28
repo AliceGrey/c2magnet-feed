@@ -7,8 +7,8 @@
   "threat_level_id": "2",
   "distribution": "3",
   "published": true,
-  "timestamp": "1795882058",
-  "publish_timestamp": "1795882058",
+  "timestamp": "1795885710",
+  "publish_timestamp": "1795885710",
   "extends_uuid": "",
   "protected": null,
   "Orgc": {
@@ -77,10 +77,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795860456",
+    "timestamp": "1795885710",
     "first_seen": "2026-10-03T05:09:49+00:00",
-    "last_seen": "2026-11-28T09:31:48+00:00",
-    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T09:31:48Z; expires 2026-12-12T09:31:48Z",
+    "last_seen": "2026-11-28T16:31:44+00:00",
+    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T16:31:44Z; expires 2026-12-12T16:31:44Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -142,6 +142,24 @@
     ]
    },
    {
+    "uuid": "04bed784-4367-5cd8-bc1c-938d0cb7a238",
+    "type": "ip-dst",
+    "category": "Network activity",
+    "value": "173.249.3.37",
+    "to_ids": true,
+    "deleted": false,
+    "distribution": "5",
+    "timestamp": "1795885710",
+    "first_seen": "2026-11-28T13:18:05+00:00",
+    "last_seen": "2026-11-28T16:16:10+00:00",
+    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T16:16:10Z; expires 2026-12-12T16:16:10Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
     "uuid": "e3bd7fc5-2842-595b-84ba-5c082c52c6c4",
     "type": "ip-dst",
     "category": "Network activity",
@@ -185,10 +203,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795860456",
+    "timestamp": "1795885710",
     "first_seen": "2026-11-18T05:28:56+00:00",
-    "last_seen": "2026-11-28T09:41:09+00:00",
-    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T09:41:09Z; expires 2026-12-12T09:41:09Z",
+    "last_seen": "2026-11-28T16:40:41+00:00",
+    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T16:40:41Z; expires 2026-12-12T16:40:41Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -275,10 +293,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795860456",
+    "timestamp": "1795885710",
     "first_seen": "2026-10-03T05:09:49+00:00",
-    "last_seen": "2026-11-28T09:31:48+00:00",
-    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T09:31:48Z; expires 2026-12-12T09:31:48Z",
+    "last_seen": "2026-11-28T16:31:44+00:00",
+    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T16:31:44Z; expires 2026-12-12T16:31:44Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -293,10 +311,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795860456",
+    "timestamp": "1795885710",
     "first_seen": "2026-11-18T21:39:16+00:00",
-    "last_seen": "2026-11-28T09:41:09+00:00",
-    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T09:41:09Z; expires 2026-12-12T09:41:09Z",
+    "last_seen": "2026-11-28T16:40:41+00:00",
+    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T16:40:41Z; expires 2026-12-12T16:40:41Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -347,10 +365,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795860456",
+    "timestamp": "1795885710",
     "first_seen": "2026-10-03T05:09:49+00:00",
-    "last_seen": "2026-11-28T09:31:48+00:00",
-    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T09:31:48Z; expires 2026-12-12T09:31:48Z",
+    "last_seen": "2026-11-28T16:31:44+00:00",
+    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T16:31:44Z; expires 2026-12-12T16:31:44Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -412,6 +430,24 @@
     ]
    },
    {
+    "uuid": "20bce25b-3442-5914-b980-61c95f003115",
+    "type": "ip-dst|port",
+    "category": "Network activity",
+    "value": "173.249.3.37|1337",
+    "to_ids": true,
+    "deleted": false,
+    "distribution": "5",
+    "timestamp": "1795885710",
+    "first_seen": "2026-11-28T13:18:05+00:00",
+    "last_seen": "2026-11-28T16:16:10+00:00",
+    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T16:16:10Z; expires 2026-12-12T16:16:10Z",
+    "Tag": [
+     {
+      "name": "estimative-language:likelihood-probability=\"very-likely\""
+     }
+    ]
+   },
+   {
     "uuid": "3f6e58ee-6125-5bc4-94c1-351a09ea85df",
     "type": "ip-dst|port",
     "category": "Network activity",
@@ -455,10 +491,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795860456",
+    "timestamp": "1795885710",
     "first_seen": "2026-11-18T05:28:56+00:00",
-    "last_seen": "2026-11-28T09:41:09+00:00",
-    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T09:41:09Z; expires 2026-12-12T09:41:09Z",
+    "last_seen": "2026-11-28T16:40:41+00:00",
+    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T16:40:41Z; expires 2026-12-12T16:40:41Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -545,10 +581,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795860456",
+    "timestamp": "1795885710",
     "first_seen": "2026-10-03T05:09:49+00:00",
-    "last_seen": "2026-11-28T09:31:48+00:00",
-    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T09:31:48Z; expires 2026-12-12T09:31:48Z",
+    "last_seen": "2026-11-28T16:31:44+00:00",
+    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T16:31:44Z; expires 2026-12-12T16:31:44Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
@@ -563,10 +599,10 @@
     "to_ids": true,
     "deleted": false,
     "distribution": "5",
-    "timestamp": "1795860456",
+    "timestamp": "1795885710",
     "first_seen": "2026-11-18T21:39:16+00:00",
-    "last_seen": "2026-11-28T09:41:09+00:00",
-    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T09:41:09Z; expires 2026-12-12T09:41:09Z",
+    "last_seen": "2026-11-28T16:40:41+00:00",
+    "comment": "Empire c2; confidence 90; last verified live 2026-11-28T16:40:41Z; expires 2026-12-12T16:40:41Z",
     "Tag": [
      {
       "name": "estimative-language:likelihood-probability=\"very-likely\""
